@@ -144,3 +144,4 @@ for fname in template_files:
         f.write(content)
 
 print(f"Successfully processed and restored all {len(template_files)} files as both clean and .html!")
+

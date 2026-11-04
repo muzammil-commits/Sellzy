@@ -1124,7 +1124,15 @@
         try {
           task();
         } catch (e) {}
-      });
+      
+  /* Mobile Preloader & Hero Safety */
+  setTimeout(function() {
+    $(".preloader").addClass("loaded");
+    if ($.fn && $.fn.slick) {
+      $(".sellzy-slider, .home-one-hero-slider").slick("setPosition");
+    }
+  }, 1000);
+});
     } catch (e) {}
   }
 
