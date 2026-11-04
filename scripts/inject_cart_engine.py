@@ -26,3 +26,4 @@ for file_path in html_files:
             f.write(content)
 
 print("Injected cart engine across all pages and updated clean files!")
+

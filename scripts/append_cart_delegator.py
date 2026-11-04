@@ -59,3 +59,4 @@ if 'Global Add To Cart Delegator' not in code:
     with open('assets/js/cart-engine.js', 'w', encoding='utf-8') as f:
         f.write(code)
     print('Added Global Add To Cart handler to cart-engine.js')
+

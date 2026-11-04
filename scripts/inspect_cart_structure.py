@@ -22,3 +22,4 @@ print("Preview of start of cart block:")
 print(cart_block[:600])
 print("\nPreview around Order Summary:")
 print(cart_block[os_idx-200:os_idx+800])
+

@@ -293,3 +293,4 @@ with open('cart-single-vendor', 'w', encoding='utf-8') as f:
     f.write(new_html)
 
 print("cart-single-vendor.html and cart-single-vendor updated successfully!")
+
