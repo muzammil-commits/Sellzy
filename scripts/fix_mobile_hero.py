@@ -175,3 +175,4 @@ if '/* Mobile Preloader & Hero Safety */' not in js_content:
     print("Added Mobile Preloader & Hero safety to assets/js/main.js")
 
 print("Mobile hero fix complete!")
+
