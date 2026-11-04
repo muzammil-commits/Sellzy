@@ -242,7 +242,13 @@
               <li>
                 <a href='about.html'>About Us</a>
               </li>
-              <li>
+                            <li>
+                <a href='ebotas.html' class="flex items-center justify-between text-[#0d7d6f] font-bold">
+                  <span>Ebotas Brand Store</span>
+                  <span class="bg-[#f5a623] text-black text-[10px] font-bold px-2 py-0.5 rounded-full">NEW</span>
+                </a>
+              </li>
+<li>
                 <a href="#">Shop</a>
                 <ul>
                   <li>
@@ -562,11 +568,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-light-primary-text"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base text-light-disabled-text line-through"
-                    >$39.99</span
+                    >₹1,999</span
                   >
                 </div>
                 <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='cart-single-vendor.html'>
@@ -605,11 +611,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-light-primary-text"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base text-light-disabled-text line-through"
-                    >$39.99</span
+                    >₹1,999</span
                   >
                 </div>
                 <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='cart-single-vendor.html'>
@@ -648,11 +654,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-light-primary-text"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base text-light-disabled-text line-through"
-                    >$39.99</span
+                    >₹1,999</span
                   >
                 </div>
                 <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='cart-single-vendor.html'>
@@ -691,11 +697,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-light-primary-text"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base text-light-disabled-text line-through"
-                    >$39.99</span
+                    >₹1,999</span
                   >
                 </div>
                 <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='cart-single-vendor.html'>
@@ -734,11 +740,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-light-primary-text"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base text-light-disabled-text line-through"
-                    >$39.99</span
+                    >₹1,999</span
                   >
                 </div>
                 <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='cart-single-vendor.html'>
@@ -777,11 +783,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-light-primary-text"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base text-light-disabled-text line-through"
-                    >$39.99</span
+                    >₹1,999</span
                   >
                 </div>
                 <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='cart-single-vendor.html'>
@@ -853,11 +859,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-light-primary-text"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base text-light-disabled-text line-through"
-                    >$39.99</span
+                    >₹1,999</span
                   >
                 </div>
                 <div
@@ -923,11 +929,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-light-primary-text"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base text-light-disabled-text line-through"
-                    >$39.99</span
+                    >₹1,999</span
                   >
                 </div>
                 <div
@@ -997,11 +1003,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-light-primary-text"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base text-light-disabled-text line-through"
-                    >$39.99</span
+                    >₹1,999</span
                   >
                 </div>
                 <div
@@ -1067,11 +1073,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-light-primary-text"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base text-light-disabled-text line-through"
-                    >$39.99</span
+                    >₹1,999</span
                   >
                 </div>
                 <div
@@ -1137,11 +1143,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-light-primary-text"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base text-light-disabled-text line-through"
-                    >$39.99</span
+                    >₹1,999</span
                   >
                 </div>
                 <div
@@ -1178,7 +1184,7 @@
         >
           <div class="cart-subtotal flex items-center justify-between">
             <h5>Subtotal</h5>
-            <h5>$27.49</h5>
+            <h5>₹1,499</h5>
           </div>
           <div class="cart-buttons flex items-center gap-x-4">
             <a class='btn btn-default outline btn-large rounded-[80px] flex-1 shadow-none' href='cart-single-vendor.html'>
@@ -1810,11 +1816,11 @@
           <div class="price-section flex items-center gap-x-3 mb-6">
             <span
               class="current-price text-2xl leading-9 font-bold text-light-primary-text relative after:absolute after:h-6 after:w-px after:bg-gray-300 after:right-0 after:top-1/2 after:-translate-y-1/2 pr-3 inline-block"
-              >$62.97</span
+              >₹2,999</span
             >
             <span
               class="old-price text-2xl leading-9 font-normal text-light-disabled-text"
-              >$39.99</span
+              >₹1,999</span
             >
             <span
               class="product-discount-badge uppercase relative bg-error text-warning-lighter font-medium text-sm leading-[22px] px-1 after:absolute after:top-0 after:left-full after:z-10 after:w-1 after:h-full after:bg-[url('../images/discount-shape.png')] after:bg-contain after:bg-no-repeat"
@@ -3057,7 +3063,7 @@
             <div class="flex items-center gap-2">
               <i class="hgi hgi-stroke hgi-delivery-truck-01 text-base"></i>
               <span>FREE SHIPPING on orders above</span>
-              <span class="bg-[#f5a623] text-black font-bold text-[11px] px-2 py-0.5 rounded-full shadow-sm">999 RS</span>
+              <span class="bg-[#f5a623] text-black font-bold text-[11px] px-2 py-0.5 rounded-full shadow-sm">₹999</span>
             </div>
           </div>
           <!-- Right side: Quick links -->
@@ -3170,6 +3176,12 @@
               </div>
             </div>
 
+            <!-- Ebotas Experience -->
+            <a href="ebotas.html" class="text-gray-800 hover:text-[#087d71] font-semibold text-sm transition-colors py-2 flex items-center gap-1.5 group">
+              <span class="text-[#0d7d6f] font-bold group-hover:underline">Ebotas</span>
+              <span class="bg-[#f5a623] text-black text-[10px] font-bold px-1.5 py-0.5 rounded-full uppercase shadow-xs">NEW</span>
+            </a>
+
             <!-- Sellers -->
             <div class="relative group py-2">
               <a href="vendors-grid.html" class="text-gray-800 hover:text-[#087d71] font-medium text-sm flex items-center gap-1 transition-colors">
@@ -3265,7 +3277,7 @@
       </div>
       <!-- header-bottom End -->
     </header>
-    <!-- ========== HEADER Section End ========== --> -->
+    <!-- ========== HEADER Section End ========== -->
 
     <!-- ========== Hero Section Start ========== -->
     <section class="pt-6 pb-[70px]">
@@ -3907,11 +3919,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -4024,11 +4036,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -4142,11 +4154,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -4259,11 +4271,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -4377,11 +4389,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -4494,11 +4506,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -4611,11 +4623,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -4729,11 +4741,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -4846,11 +4858,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -4964,11 +4976,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -5087,11 +5099,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -5201,11 +5213,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -5316,11 +5328,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -5430,11 +5442,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -5545,11 +5557,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -5659,11 +5671,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -5773,11 +5785,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -5888,11 +5900,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -6002,11 +6014,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -6117,11 +6129,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -6240,11 +6252,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -6354,11 +6366,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -6469,11 +6481,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -6583,11 +6595,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -6698,11 +6710,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -6812,11 +6824,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -6926,11 +6938,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -7041,11 +7053,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -7155,11 +7167,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -7270,11 +7282,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -7393,11 +7405,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -7507,11 +7519,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -7622,11 +7634,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -7736,11 +7748,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -7851,11 +7863,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -7965,11 +7977,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -8079,11 +8091,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -8194,11 +8206,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -8308,11 +8320,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -8423,11 +8435,11 @@
                     >
                       <span
                         class="current-price text-[18px] leading-7 font-urbanist font-bold text-primary"
-                        >$127.49</span
+                        >₹6,499</span
                       >
                       <span
                         class="old-price text-[18px] leading-7 font-urbanist font-semibold text-light-disabled-text line-through"
-                        >$29.99</span
+                        >₹1,499</span
                       >
                     </div>
                     <div class="btn-section flex items-center gap-x-4">
@@ -8634,11 +8646,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-primary-dark"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base leading-6 font-normal text-light-disabled-text line-through"
-                    >$29.99</span
+                    >₹1,499</span
                   >
                 </div>
               </div>
@@ -8685,11 +8697,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-primary-dark"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base leading-6 font-normal text-light-disabled-text line-through"
-                    >$29.99</span
+                    >₹1,499</span
                   >
                 </div>
               </div>
@@ -8736,11 +8748,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-primary-dark"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base leading-6 font-normal text-light-disabled-text line-through"
-                    >$29.99</span
+                    >₹1,499</span
                   >
                 </div>
               </div>
@@ -8787,11 +8799,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-primary-dark"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base leading-6 font-normal text-light-disabled-text line-through"
-                    >$29.99</span
+                    >₹1,499</span
                   >
                 </div>
               </div>
@@ -8838,11 +8850,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-primary-dark"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base leading-6 font-normal text-light-disabled-text line-through"
-                    >$29.99</span
+                    >₹1,499</span
                   >
                 </div>
               </div>
@@ -8889,11 +8901,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-primary-dark"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base leading-6 font-normal text-light-disabled-text line-through"
-                    >$29.99</span
+                    >₹1,499</span
                   >
                 </div>
               </div>
@@ -8940,11 +8952,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-primary-dark"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base leading-6 font-normal text-light-disabled-text line-through"
-                    >$29.99</span
+                    >₹1,499</span
                   >
                 </div>
               </div>
@@ -8991,11 +9003,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-primary-dark"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base leading-6 font-normal text-light-disabled-text line-through"
-                    >$29.99</span
+                    >₹1,499</span
                   >
                 </div>
               </div>
@@ -9042,11 +9054,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-base font-semibold text-primary-dark"
-                    >$27.49</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-base leading-6 font-normal text-light-disabled-text line-through"
-                    >$29.99</span
+                    >₹1,499</span
                   >
                 </div>
               </div>
@@ -9078,7 +9090,7 @@
                 </div>
                 <h4 class="py-1.5">Samsung QLED 4K Smart TV</h4>
                 <p class="pb-4 text-light-primary-text">
-                  Free Shipping or over $89
+                  Free Shipping or over ₹4,499
                 </p>
                 <a class='btn btn-primary text-white text-sm leading-6 font-semibold btn-large rounded-[60px] group py-1.5 pl-5 pr-3' href='shop-left-sidebar-3col.html'>
                   See More Products
@@ -9110,7 +9122,7 @@
                 </div>
                 <h4 class="py-1.5">Sony Bravia 55" Heater</h4>
                 <p class="pb-4 text-light-primary-text">
-                  Free Shipping or over $150
+                  Free Shipping or over ₹7,499
                 </p>
                 <a class='btn btn-primary text-white text-sm leading-6 font-semibold btn-large rounded-[60px] group py-1.5 pl-5 pr-3' href='shop-left-sidebar-3col.html'>
                   See More Products
@@ -9142,7 +9154,7 @@
                 </div>
                 <h4 class="py-1.5">iPhone 18 Pro Max Plus</h4>
                 <p class="pb-4 text-light-primary-text">
-                  Free Shipping or over $250
+                  Free Shipping or over ₹12,499
                 </p>
                 <a class='btn btn-primary text-white text-sm leading-6 font-semibold btn-large rounded-[60px] group py-1.5 pl-5 pr-3' href='shop-left-sidebar-3col.html'>
                   See More Products
@@ -9174,7 +9186,7 @@
                 </div>
                 <h4 class="py-1.5">Samsung Smart Oven</h4>
                 <p class="pb-4 text-light-primary-text">
-                  Free Shipping or over $120
+                  Free Shipping or over ₹5,999
                 </p>
                 <a class='btn btn-primary text-white text-sm leading-6 font-semibold btn-large rounded-[60px] group py-1.5 pl-5 pr-3' href='shop-left-sidebar-3col.html'>
                   See More Products
@@ -9376,11 +9388,11 @@
                   <div class="price-section flex items-center gap-x-3">
                     <span
                       class="current-price text-lg leading-7 font-bold text-light-primary-text font-urbanist"
-                      >$27.49</span
+                      >₹1,499</span
                     >
                     <span
                       class="old-price text-lg leading-7 font-semibold text-light-disabled-text line-through font-urbanist"
-                      >$29.99</span
+                      >₹1,499</span
                     >
                   </div>
                   <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 py-1.5 px-[32.5px]' href='cart-single-vendor.html'>
@@ -9563,11 +9575,11 @@
                   <div class="price-section flex items-center gap-x-3">
                     <span
                       class="current-price text-lg leading-7 font-bold text-light-primary-text font-urbanist"
-                      >$27.49</span
+                      >₹1,499</span
                     >
                     <span
                       class="old-price text-lg leading-7 font-semibold text-light-disabled-text line-through font-urbanist"
-                      >$29.99</span
+                      >₹1,499</span
                     >
                   </div>
                   <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 py-1.5 px-[32.5px]' href='cart-single-vendor.html'>
@@ -9750,11 +9762,11 @@
                   <div class="price-section flex items-center gap-x-3">
                     <span
                       class="current-price text-lg leading-7 font-bold text-light-primary-text font-urbanist"
-                      >$27.49</span
+                      >₹1,499</span
                     >
                     <span
                       class="old-price text-lg leading-7 font-semibold text-light-disabled-text line-through font-urbanist"
-                      >$29.99</span
+                      >₹1,499</span
                     >
                   </div>
                   <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 py-1.5 px-[32.5px]' href='cart-single-vendor.html'>
@@ -9937,11 +9949,11 @@
                   <div class="price-section flex items-center gap-x-3">
                     <span
                       class="current-price text-lg leading-7 font-bold text-light-primary-text font-urbanist"
-                      >$27.49</span
+                      >₹1,499</span
                     >
                     <span
                       class="old-price text-lg leading-7 font-semibold text-light-disabled-text line-through font-urbanist"
-                      >$29.99</span
+                      >₹1,499</span
                     >
                   </div>
                   <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 py-1.5 px-[32.5px]' href='cart-single-vendor.html'>
@@ -9977,7 +9989,7 @@
                   <span
                     class="text-light-primary-text bg-[#84A9FF] px-3 py-1 rounded-full text-base font-semibold"
                   >
-                    Start From $120.00
+                    Start From ₹5,999
                   </span>
                 </div>
                 <h3 class="py-1.5 text-white">Audio Essentials</h3>
@@ -10192,11 +10204,11 @@
                   <div class="price-section flex items-center gap-x-3 mb-2">
                     <span
                       class="current-price text-base font-semibold text-primary"
-                      >$27.49</span
+                      >₹1,499</span
                     >
                     <span
                       class="old-price text-base leading-[22px] font-normal text-light-disabled-text line-through"
-                      >$29.99</span
+                      >₹1,499</span
                     >
                   </div>
                 </div>
@@ -10238,11 +10250,11 @@
                   <div class="price-section flex items-center gap-x-3 mb-2">
                     <span
                       class="current-price text-base font-semibold text-primary"
-                      >$27.49</span
+                      >₹1,499</span
                     >
                     <span
                       class="old-price text-base leading-[22px] font-normal text-light-disabled-text line-through"
-                      >$29.99</span
+                      >₹1,499</span
                     >
                   </div>
                 </div>
@@ -10272,11 +10284,11 @@
                 <div class="price-section flex items-center gap-x-3">
                   <span
                     class="current-price text-xl leading-[30px] font-bold text-primary"
-                    >$28.56</span
+                    >₹1,499</span
                   >
                   <span
                     class="old-price text-[18px] leading-7 font-normal text-light-disabled-text line-through"
-                    >$29.56</span
+                    >₹1,499</span
                   >
                 </div>
               </div>
@@ -10326,11 +10338,11 @@
                   <div class="price-section flex items-center gap-x-3 mb-2">
                     <span
                       class="current-price text-base font-semibold text-primary"
-                      >$27.49</span
+                      >₹1,499</span
                     >
                     <span
                       class="old-price text-base leading-[22px] font-normal text-light-disabled-text line-through"
-                      >$39.99</span
+                      >₹1,999</span
                     >
                   </div>
                 </div>
@@ -10374,11 +10386,11 @@
                   <div class="price-section flex items-center gap-x-3 mb-2">
                     <span
                       class="current-price text-base font-semibold text-primary"
-                      >$27.49</span
+                      >₹1,499</span
                     >
                     <span
                       class="old-price text-base leading-[22px] font-normal text-light-disabled-text line-through"
-                      >$39.99</span
+                      >₹1,999</span
                     >
                   </div>
                 </div>
@@ -10535,7 +10547,7 @@
         </div>
       </div>
     </footer>
-    <!-- ========== Footer Section End ========== --> -->
+    <!-- ========== Footer Section End ========== -->
 
     <!-- Footer Bottom Nav Start -->
     <div
