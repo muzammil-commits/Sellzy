@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.vscode/
+assets_extracted/
+*.pyc
+__pycache__/
+update_pages.py
+update_logo.py
+customize_homepage.py
+check_images.py
+check_all_images.py
+Tailwind Sellzy/
+
