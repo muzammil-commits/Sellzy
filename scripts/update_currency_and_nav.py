@@ -128,3 +128,4 @@ for file_path in html_files:
         updated_count += 1
 
 print(f"Successfully updated {updated_count} HTML files!")
+
