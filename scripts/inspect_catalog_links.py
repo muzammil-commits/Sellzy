@@ -9,3 +9,4 @@ for l in links[:12]:
     clean = re.sub(r'<[^>]+>', '', l).strip()
     if clean:
         print(" - Text:", clean[:60])
+

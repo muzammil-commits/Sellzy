@@ -277,3 +277,4 @@ for v in [2, 3, 4, 5, 6]:
             f.write(new_html)
 
 print("Dynamic Product Details page updated across all versions!")
+

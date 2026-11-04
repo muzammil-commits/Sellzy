@@ -149,7 +149,7 @@
                     <a href='/wishlist-style-v2'>Shop - Wishlist Version 2</a
                     >
                   </li>
-                  <li><a href='/cart-single-vendor'>Shop - Cart</a></li>
+                  <li><a href='cart-single-vendor.html'>Shop - Cart</a></li>
                   <li>
                     <a href='/cart-multi-vendor'>Shop - Cart Multi Vendor</a
                     >
@@ -452,7 +452,7 @@
                     >₹1,999</span
                   >
                 </div>
-                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='/cart-single-vendor'>
+                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='cart-single-vendor.html'>
                   <span>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
@@ -495,7 +495,7 @@
                     >₹1,999</span
                   >
                 </div>
-                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='/cart-single-vendor'>
+                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='cart-single-vendor.html'>
                   <span>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
@@ -538,7 +538,7 @@
                     >₹1,999</span
                   >
                 </div>
-                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='/cart-single-vendor'>
+                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='cart-single-vendor.html'>
                   <span>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
@@ -581,7 +581,7 @@
                     >₹1,999</span
                   >
                 </div>
-                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='/cart-single-vendor'>
+                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='cart-single-vendor.html'>
                   <span>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
@@ -624,7 +624,7 @@
                     >₹1,999</span
                   >
                 </div>
-                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='/cart-single-vendor'>
+                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='cart-single-vendor.html'>
                   <span>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
@@ -667,7 +667,7 @@
                     >₹1,999</span
                   >
                 </div>
-                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='/cart-single-vendor'>
+                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='cart-single-vendor.html'>
                   <span>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
@@ -701,360 +701,7 @@
         <div
           class="cart-products-content p-6 flex flex-col gap-y-4 overflow-y-auto h-[calc(100%-250px)]"
         >
-          <div
-            class="cart-product-item flex flex-col sm:flex-row items-center sm:gap-x-4 gap-y-2 sm:gap-y-0 p-4 border border-gray-300 rounded-2xl"
-          >
-            <a class='cart-product-item-image sm:w-[102px] sm:h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='/product-details'>
-              <img
-                src="./assets/images/home-3/watermelon.png"
-                alt="Product Image"
-                class="w-full h-full object-cover rounded-xl"
-              />
-            </a>
-            <div
-              class="cart-product-item-content flex flex-col gap-y-2 flex-1 w-full"
-            >
-              <div class="flex items-center justify-between gap-x-2">
-                <h6 class="text-base font-semibold">
-                  <a href='/product-details'>Fresh Bask Basket Fruits</a>
-                </h6>
-                <div class="cart-edit-remove flex items-center gap-x-3">
-                  <button>
-                    <i
-                      class="hgi hgi-stroke hgi-edit-02 text-xl text-light-primary-text"
-                    ></i>
-                  </button>
-                  <button>
-                    <i
-                      class="hgi hgi-stroke hgi-delete-01 text-xl text-light-primary-text"
-                    ></i>
-                  </button>
-                </div>
-              </div>
-              <p class="text-sm leading-[22px]">Color: Black, Size: 250 ML</p>
-              <div class="flex items-center justify-between">
-                <div class="price-section flex items-center gap-x-3">
-                  <span
-                    class="current-price text-base font-semibold text-light-primary-text"
-                    >₹1,499</span
-                  >
-                  <span
-                    class="old-price text-base text-light-disabled-text line-through"
-                    >₹1,999</span
-                  >
-                </div>
-                <div
-                  class="border border-gray-300 inline-flex items-center justify-center rounded-[80px] max-w-[108px] py-2.5 px-4"
-                >
-                  <button
-                    class="inline-flex items-center justify-center hover:text-primary"
-                  >
-                    <i
-                      class="hgi hgi-stroke hgi-remove-circle text-2xl leading-6"
-                    ></i>
-                  </button>
-                  <input
-                    type="text"
-                    readonly
-                    value="1"
-                    class="border-0 w-full grow text-center focus:outline-none font-semibold"
-                  />
-
-                  <button
-                    class="inline-flex items-center justify-center hover:text-primary"
-                  >
-                    <i
-                      class="hgi hgi-stroke hgi-add-circle text-2xl leading-6"
-                    ></i>
-                  </button>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div
-            class="cart-product-item flex flex-col sm:flex-row items-center sm:gap-x-4 gap-y-2 sm:gap-y-0 p-4 border border-gray-300 rounded-2xl"
-          >
-            <a class='cart-product-item-image sm:w-[102px] sm:h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='/product-details'>
-              <img
-                src="./assets/images/home-3/avocado.png"
-                alt="Product Image"
-                class="w-full h-full object-cover rounded-xl"
-              />
-            </a>
-            <div
-              class="cart-product-item-content flex flex-col gap-y-2 flex-1 w-full"
-            >
-              <div class="flex items-center justify-between gap-x-2">
-                <h6 class="text-base font-semibold">
-                  <a href='/product-details'>Fresh Bask Basket Fruits</a>
-                </h6>
-                <div class="cart-edit-remove flex items-center gap-x-3">
-                  <button>
-                    <i
-                      class="hgi hgi-stroke hgi-edit-02 text-xl text-light-primary-text"
-                    ></i>
-                  </button>
-                  <button>
-                    <i
-                      class="hgi hgi-stroke hgi-delete-01 text-xl text-light-primary-text"
-                    ></i>
-                  </button>
-                </div>
-              </div>
-              <p class="text-sm leading-[22px]">Color: Black, Size: 250 ML</p>
-              <div class="flex items-center justify-between">
-                <div class="price-section flex items-center gap-x-3">
-                  <span
-                    class="current-price text-base font-semibold text-light-primary-text"
-                    >₹1,499</span
-                  >
-                  <span
-                    class="old-price text-base text-light-disabled-text line-through"
-                    >₹1,999</span
-                  >
-                </div>
-                <div
-                  class="border border-gray-300 inline-flex items-center justify-center rounded-[80px] max-w-[108px] py-2.5 px-4"
-                >
-                  <button
-                    class="inline-flex items-center justify-center hover:text-primary"
-                  >
-                    <i
-                      class="hgi hgi-stroke hgi-remove-circle text-2xl leading-6"
-                    ></i>
-                  </button>
-                  <input
-                    type="text"
-                    readonly
-                    value="1"
-                    class="border-0 w-full grow text-center focus:outline-none font-semibold"
-                  />
-
-                  <button
-                    class="inline-flex items-center justify-center hover:text-primary"
-                  >
-                    <i
-                      class="hgi hgi-stroke hgi-add-circle text-2xl leading-6"
-                    ></i>
-                  </button>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div
-            class="cart-product-item flex flex-col sm:flex-row items-center sm:gap-x-4 gap-y-2 sm:gap-y-0 p-4 border border-gray-300 rounded-2xl"
-          >
-            <a class='cart-product-item-image sm:w-[102px] sm:h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='/product-details'>
-              <img
-                src="./assets/images/home-3/pouch-mockup.png"
-                alt="Product Image"
-                class="w-full h-full object-cover rounded-xl"
-              />
-              <span
-                class="product-discount-badge absolute top-1/2 -translate-y-1/2 left-0 bg-error text-warning-lighter font-medium text-sm leading-[22px] px-1 after:absolute after:top-0 after:left-full after:z-10 after:w-1 after:h-full after:bg-[url('../images/discount-shape.png')] after:bg-contain"
-                >Out of Stock</span
-              >
-            </a>
-            <div
-              class="cart-product-item-content flex flex-col gap-y-2 flex-1 w-full"
-            >
-              <div class="flex items-center justify-between gap-x-2">
-                <h6 class="text-base font-semibold">
-                  <a href='/product-details'>Fresh Bask Basket Fruits</a>
-                </h6>
-                <div class="cart-edit-remove flex items-center gap-x-3">
-                  <button>
-                    <i
-                      class="hgi hgi-stroke hgi-edit-02 text-xl text-light-primary-text"
-                    ></i>
-                  </button>
-                  <button>
-                    <i
-                      class="hgi hgi-stroke hgi-delete-01 text-xl text-light-primary-text"
-                    ></i>
-                  </button>
-                </div>
-              </div>
-              <p class="text-sm leading-[22px]">Color: Black, Size: 250 ML</p>
-              <div class="flex items-center justify-between">
-                <div class="price-section flex items-center gap-x-3">
-                  <span
-                    class="current-price text-base font-semibold text-light-primary-text"
-                    >₹1,499</span
-                  >
-                  <span
-                    class="old-price text-base text-light-disabled-text line-through"
-                    >₹1,999</span
-                  >
-                </div>
-                <div
-                  class="border border-gray-300 inline-flex items-center justify-center rounded-[80px] max-w-[108px] py-2.5 px-4"
-                >
-                  <button
-                    class="inline-flex items-center justify-center hover:text-primary"
-                  >
-                    <i
-                      class="hgi hgi-stroke hgi-remove-circle text-2xl leading-6"
-                    ></i>
-                  </button>
-                  <input
-                    type="text"
-                    readonly
-                    value="1"
-                    class="border-0 w-full grow text-center focus:outline-none font-semibold"
-                  />
-
-                  <button
-                    class="inline-flex items-center justify-center hover:text-primary"
-                  >
-                    <i
-                      class="hgi hgi-stroke hgi-add-circle text-2xl leading-6"
-                    ></i>
-                  </button>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div
-            class="cart-product-item flex flex-col sm:flex-row items-center sm:gap-x-4 gap-y-2 sm:gap-y-0 p-4 border border-gray-300 rounded-2xl"
-          >
-            <a class='cart-product-item-image sm:w-[102px] sm:h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='/product-details'>
-              <img
-                src="./assets/images/home-3/strawberry-snacks.png"
-                alt="Product Image"
-                class="w-full h-full object-cover rounded-xl"
-              />
-            </a>
-            <div
-              class="cart-product-item-content flex flex-col gap-y-2 flex-1 w-full"
-            >
-              <div class="flex items-center justify-between gap-x-2">
-                <h6 class="text-base font-semibold">
-                  <a href='/product-details'>Fresh Bask Basket Fruits</a>
-                </h6>
-                <div class="cart-edit-remove flex items-center gap-x-3">
-                  <button>
-                    <i
-                      class="hgi hgi-stroke hgi-edit-02 text-xl text-light-primary-text"
-                    ></i>
-                  </button>
-                  <button>
-                    <i
-                      class="hgi hgi-stroke hgi-delete-01 text-xl text-light-primary-text"
-                    ></i>
-                  </button>
-                </div>
-              </div>
-              <p class="text-sm leading-[22px]">Color: Black, Size: 250 ML</p>
-              <div class="flex items-center justify-between">
-                <div class="price-section flex items-center gap-x-3">
-                  <span
-                    class="current-price text-base font-semibold text-light-primary-text"
-                    >₹1,499</span
-                  >
-                  <span
-                    class="old-price text-base text-light-disabled-text line-through"
-                    >₹1,999</span
-                  >
-                </div>
-                <div
-                  class="border border-gray-300 inline-flex items-center justify-center rounded-[80px] max-w-[108px] py-2.5 px-4"
-                >
-                  <button
-                    class="inline-flex items-center justify-center hover:text-primary"
-                  >
-                    <i
-                      class="hgi hgi-stroke hgi-remove-circle text-2xl leading-6"
-                    ></i>
-                  </button>
-                  <input
-                    type="text"
-                    readonly
-                    value="1"
-                    class="border-0 w-full grow text-center focus:outline-none font-semibold"
-                  />
-
-                  <button
-                    class="inline-flex items-center justify-center hover:text-primary"
-                  >
-                    <i
-                      class="hgi hgi-stroke hgi-add-circle text-2xl leading-6"
-                    ></i>
-                  </button>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div
-            class="cart-product-item flex flex-col sm:flex-row items-center sm:gap-x-4 gap-y-2 sm:gap-y-0 p-4 border border-gray-300 rounded-2xl"
-          >
-            <a class='cart-product-item-image sm:w-[102px] sm:h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='/product-details'>
-              <img
-                src="./assets/images/home-3/pomegranate.png"
-                alt="Product Image"
-                class="w-full h-full object-cover rounded-xl"
-              />
-            </a>
-            <div
-              class="cart-product-item-content flex flex-col gap-y-2 flex-1 w-full"
-            >
-              <div class="flex items-center justify-between gap-x-2">
-                <h6 class="text-base font-semibold">
-                  <a href='/product-details'>Fresh Bask Basket Fruits</a>
-                </h6>
-                <div class="cart-edit-remove flex items-center gap-x-3">
-                  <button>
-                    <i
-                      class="hgi hgi-stroke hgi-edit-02 text-xl text-light-primary-text"
-                    ></i>
-                  </button>
-                  <button>
-                    <i
-                      class="hgi hgi-stroke hgi-delete-01 text-xl text-light-primary-text"
-                    ></i>
-                  </button>
-                </div>
-              </div>
-              <p class="text-sm leading-[22px]">Color: Black, Size: 250 ML</p>
-              <div class="flex items-center justify-between">
-                <div class="price-section flex items-center gap-x-3">
-                  <span
-                    class="current-price text-base font-semibold text-light-primary-text"
-                    >₹1,499</span
-                  >
-                  <span
-                    class="old-price text-base text-light-disabled-text line-through"
-                    >₹1,999</span
-                  >
-                </div>
-                <div
-                  class="border border-gray-300 inline-flex items-center justify-center rounded-[80px] max-w-[108px] py-2.5 px-4"
-                >
-                  <button
-                    class="inline-flex items-center justify-center hover:text-primary"
-                  >
-                    <i
-                      class="hgi hgi-stroke hgi-remove-circle text-2xl leading-6"
-                    ></i>
-                  </button>
-                  <input
-                    type="text"
-                    readonly
-                    value="1"
-                    class="border-0 w-full grow text-center focus:outline-none font-semibold"
-                  />
-
-                  <button
-                    class="inline-flex items-center justify-center hover:text-primary"
-                  >
-                    <i
-                      class="hgi hgi-stroke hgi-add-circle text-2xl leading-6"
-                    ></i>
-                  </button>
-                </div>
-              </div>
-            </div>
-          </div>
+          <!-- Cart items rendered dynamically by cart-sidebar.js -->
         </div>
         <div
           class="cart-products-footer p-6 border-t border-gray-300 flex flex-col gap-y-4"
@@ -1064,10 +711,10 @@
             <h5>₹1,499</h5>
           </div>
           <div class="cart-buttons flex items-center gap-x-4">
-            <a class='btn btn-default outline btn-large rounded-[80px] flex-1 shadow-none' href='/cart-single-vendor'>
+            <a class='btn btn-default outline btn-large rounded-[80px] flex-1 shadow-none' href='cart-single-vendor.html'>
               View Cart
             </a>
-            <a class='btn btn-primary btn-large rounded-[80px] flex-1' href='/checkout'>
+            <a class='btn btn-primary btn-large rounded-[80px] flex-1' href='checkout.html'>
               Proceed to Checkout
             </a>
           </div>
@@ -4808,7 +4455,7 @@
                       <a href="#">Shop - Cart</a>
                       <ul>
                         <li>
-                          <a href='/cart-single-vendor'> Shop - Cart </a>
+                          <a href='cart-single-vendor.html'> Shop - Cart </a>
                         </li>
                         <li>
                           <a href='/cart-multi-vendor'>
@@ -4821,7 +4468,7 @@
                       <a href="#">Shop - Checkout</a>
                       <ul>
                         <li>
-                          <a href='/checkout'>
+                          <a href='checkout.html'>
                             Shop - Checkout Version 1
                           </a>
                         </li>
@@ -5424,7 +5071,7 @@
                       class="hgi hgi-stroke hgi-favourite text-xl text-white"
                     ></i>
                   </a>
-                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                     ></i>
@@ -5535,7 +5182,7 @@
                       ></i>
                     </span>
                   </a>
-                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                     ></i>
@@ -5646,7 +5293,7 @@
                       ></i>
                     </span>
                   </a>
-                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                     ></i>
@@ -5757,7 +5404,7 @@
                       ></i>
                     </span>
                   </a>
-                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                     ></i>
@@ -5868,7 +5515,7 @@
                       ></i>
                     </span>
                   </a>
-                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                     ></i>
@@ -5979,7 +5626,7 @@
                       ></i>
                     </span>
                   </a>
-                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                     ></i>
@@ -6126,7 +5773,7 @@
                         class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                       ></i>
                     </a>
-                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                       <i
                         class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                       ></i>
@@ -6244,7 +5891,7 @@
                         class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                       ></i>
                     </a>
-                    <a class='btn btn-error rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                    <a class='btn btn-error rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                       <i
                         class="hgi hgi-stroke hgi-notification-01 text-xl text-white"
                       ></i>
@@ -6477,7 +6124,7 @@
                         class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                       ></i>
                     </a>
-                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                       <i
                         class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                       ></i>
@@ -6592,7 +6239,7 @@
                         class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                       ></i>
                     </a>
-                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                       <i
                         class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                       ></i>
@@ -6707,7 +6354,7 @@
                         class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                       ></i>
                     </a>
-                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                       <i
                         class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                       ></i>
@@ -6822,7 +6469,7 @@
                         class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                       ></i>
                     </a>
-                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                       <i
                         class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                       ></i>
@@ -7482,7 +7129,7 @@
                           </div>
                         </div>
                         <div class="flex items-end">
-                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='/cart-single-vendor'>
+                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='cart-single-vendor.html'>
                             <i
                               class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                             ></i>
@@ -7544,7 +7191,7 @@
                           </div>
                         </div>
                         <div class="flex items-end">
-                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='/cart-single-vendor'>
+                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='cart-single-vendor.html'>
                             <i
                               class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                             ></i>
@@ -7606,7 +7253,7 @@
                           </div>
                         </div>
                         <div class="flex items-end">
-                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='/cart-single-vendor'>
+                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='cart-single-vendor.html'>
                             <i
                               class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                             ></i>
@@ -7668,7 +7315,7 @@
                           </div>
                         </div>
                         <div class="flex items-end">
-                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='/cart-single-vendor'>
+                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='cart-single-vendor.html'>
                             <i
                               class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                             ></i>
@@ -7730,7 +7377,7 @@
                           </div>
                         </div>
                         <div class="flex items-end">
-                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='/cart-single-vendor'>
+                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='cart-single-vendor.html'>
                             <i
                               class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                             ></i>
@@ -7792,7 +7439,7 @@
                           </div>
                         </div>
                         <div class="flex items-end">
-                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='/cart-single-vendor'>
+                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='cart-single-vendor.html'>
                             <i
                               class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                             ></i>
@@ -7869,7 +7516,7 @@
                           </div>
                         </div>
                         <div class="flex items-end">
-                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='/cart-single-vendor'>
+                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='cart-single-vendor.html'>
                             <i
                               class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                             ></i>
@@ -7931,7 +7578,7 @@
                           </div>
                         </div>
                         <div class="flex items-end">
-                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='/cart-single-vendor'>
+                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='cart-single-vendor.html'>
                             <i
                               class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                             ></i>
@@ -7993,7 +7640,7 @@
                           </div>
                         </div>
                         <div class="flex items-end">
-                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='/cart-single-vendor'>
+                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='cart-single-vendor.html'>
                             <i
                               class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                             ></i>
@@ -8055,7 +7702,7 @@
                           </div>
                         </div>
                         <div class="flex items-end">
-                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='/cart-single-vendor'>
+                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='cart-single-vendor.html'>
                             <i
                               class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                             ></i>
@@ -8117,7 +7764,7 @@
                           </div>
                         </div>
                         <div class="flex items-end">
-                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='/cart-single-vendor'>
+                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='cart-single-vendor.html'>
                             <i
                               class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                             ></i>
@@ -8179,7 +7826,7 @@
                           </div>
                         </div>
                         <div class="flex items-end">
-                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='/cart-single-vendor'>
+                          <a class='btn btn-primary btn-large rounded-[100px] group py-2.5 px-[22px]' href='cart-single-vendor.html'>
                             <i
                               class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                             ></i>
@@ -8349,7 +7996,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -8459,7 +8106,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -8569,7 +8216,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -8679,7 +8326,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -8789,7 +8436,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -8899,7 +8546,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -9009,7 +8656,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -9119,7 +8766,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -9229,7 +8876,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -9339,7 +8986,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -9449,7 +9096,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -9559,7 +9206,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -9674,7 +9321,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -9783,7 +9430,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -9892,7 +9539,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -10001,7 +9648,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -10110,7 +9757,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -10219,7 +9866,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -10328,7 +9975,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -10437,7 +10084,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -10546,7 +10193,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -10655,7 +10302,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -10764,7 +10411,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -10873,7 +10520,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -10989,7 +10636,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -11098,7 +10745,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -11207,7 +10854,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -11316,7 +10963,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -11425,7 +11072,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -11534,7 +11181,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -11643,7 +11290,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -11752,7 +11399,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -11861,7 +11508,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -11970,7 +11617,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -12079,7 +11726,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -12188,7 +11835,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -12303,7 +11950,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -12412,7 +12059,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -12521,7 +12168,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -12630,7 +12277,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -12739,7 +12386,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -12848,7 +12495,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -12957,7 +12604,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -13066,7 +12713,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -13175,7 +12822,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -13284,7 +12931,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -13393,7 +13040,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -13502,7 +13149,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -13618,7 +13265,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -13727,7 +13374,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -13836,7 +13483,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -13945,7 +13592,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -14054,7 +13701,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -14163,7 +13810,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -14272,7 +13919,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -14381,7 +14028,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -14490,7 +14137,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -14599,7 +14246,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -14708,7 +14355,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -14817,7 +14464,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -14932,7 +14579,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -15041,7 +14688,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -15150,7 +14797,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -15259,7 +14906,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -15368,7 +15015,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -15477,7 +15124,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -15586,7 +15233,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -15695,7 +15342,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -15804,7 +15451,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -15913,7 +15560,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -16022,7 +15669,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -16131,7 +15778,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -16382,7 +16029,7 @@
                         class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                       ></i>
                     </a>
-                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                       <i
                         class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                       ></i>
@@ -16484,7 +16131,7 @@
                         class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                       ></i>
                     </a>
-                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                       <i
                         class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                       ></i>
@@ -16586,7 +16233,7 @@
                         class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                       ></i>
                     </a>
-                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                       <i
                         class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                       ></i>
@@ -16691,7 +16338,7 @@
                         ></i>
                       </span>
                     </a>
-                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                       <i
                         class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                       ></i>
@@ -16793,7 +16440,7 @@
                         class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                       ></i>
                     </a>
-                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                       <i
                         class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                       ></i>
@@ -16895,7 +16542,7 @@
                         class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                       ></i>
                     </a>
-                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                       <i
                         class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                       ></i>
@@ -16997,7 +16644,7 @@
                         class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                       ></i>
                     </a>
-                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                    <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                       <i
                         class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                       ></i>
@@ -17212,7 +16859,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -17329,7 +16976,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -17446,7 +17093,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -17563,7 +17210,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -17680,7 +17327,7 @@
                           class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                         ></i>
                       </a>
-                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                      <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                         <i
                           class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                         ></i>
@@ -18523,7 +18170,7 @@
             >
           </li>
           <li class="group">
-            <a class='footer-bottom-nav-btn flex items-center flex-col gap-y-1 border-t-2 border-transparent text-sm leading-[22px] text-light-primary-text px-[9px] pt-2.5 pb-1' href='/cart-single-vendor'><span class="inline-flex items-center justify-center">
+            <a class='footer-bottom-nav-btn flex items-center flex-col gap-y-1 border-t-2 border-transparent text-sm leading-[22px] text-light-primary-text px-[9px] pt-2.5 pb-1' href='cart-single-vendor.html'><span class="inline-flex items-center justify-center">
                 <i
                   class="hgi hgi-stroke hgi-package-moving text-2xl leading-6 text-light-primary-text"
                 ></i></span
@@ -18565,5 +18212,6 @@
     <script src="./assets/js/main.js"></script>
       <script src="./assets/js/products-data.js"></script>
     <script src="./assets/js/cart-engine.js"></script>
+    <script src="./assets/js/cart-sidebar.js"></script>
   </body>
 </html>

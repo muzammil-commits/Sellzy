@@ -30,3 +30,4 @@ with open('ebotas', 'w', encoding='utf-8') as f:
     f.write(text)
 
 print("Updated ebotas product card links to dynamic product details!")
+

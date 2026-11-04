@@ -60,3 +60,4 @@ for html_file in glob.glob('*.html'):
                 f.write(c)
 
 print("Linked products-data.js across all pages!")
+

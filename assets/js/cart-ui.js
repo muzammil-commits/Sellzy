@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <img src="${item.image}" alt="${item.name}" class="w-full h-full object-contain p-1.5" onerror="this.src='./assets/images/home-3/apple.png'" />
               </div>
               <div class="flex-1 min-w-0">
-                <a href="product-details.html" class="product-name text-light-primary-text font-semibold text-sm hover:text-primary transition-colors block truncate">
+                <a href="product-details.html?id=${item.slug || item.id}" class="product-name text-light-primary-text font-semibold text-sm hover:text-primary transition-colors block truncate">
                   ${item.name}
                 </a>
                 <p class="text-xs text-gray-500 mt-0.5 flex items-center gap-2">

@@ -20,48 +20,9 @@
     'FREESHIP': { type: 'shipping', value: 0, label: 'Free Delivery' }
   };
 
-  // Seed items matching image copy 12.png if cart is initially empty
-  const DEFAULT_SEED_ITEMS = [
-    {
-      id: 'prod-coffee-1',
-      name: 'Morning Brew Instant Coffee',
-      image: './assets/images/home-3/apple.png',
-      price: 1499,
-      originalPrice: 1499,
-      size: '250 ML',
-      color: 'Black',
-      qty: 1,
-      available: 2,
-      rating: 4.8,
-      reviews: 118
-    },
-    {
-      id: 'prod-coffee-2',
-      name: 'Morning Brew Instant Coffee',
-      image: './assets/images/home-3/corn-can.png',
-      price: 1499,
-      originalPrice: 1499,
-      size: '250 ML',
-      color: 'Black',
-      qty: 1,
-      available: 5,
-      rating: 4.9,
-      reviews: 118
-    },
-    {
-      id: 'prod-coffee-3',
-      name: 'Morning Brew Instant Coffee',
-      image: './assets/images/home-1/hero-promo-1.png',
-      price: 1499,
-      originalPrice: 1499,
-      size: '250 ML',
-      color: 'Black',
-      qty: 1,
-      available: 4,
-      rating: 5.0,
-      reviews: 118
-    }
-  ];
+  // Empty initial cart
+  const DEFAULT_SEED_ITEMS = [];
+  const CLEAN_RESET_KEY = 'sellzy_cart_cleared_v3';
 
   class CartEngine {
     constructor() {
@@ -73,16 +34,32 @@
 
     loadItems() {
       try {
+        if (!localStorage.getItem(CLEAN_RESET_KEY)) {
+          localStorage.removeItem(STORAGE_KEY);
+          localStorage.setItem(CLEAN_RESET_KEY, 'true');
+          return [];
+        }
+
         const stored = localStorage.getItem(STORAGE_KEY);
         if (stored !== null) {
-          return JSON.parse(stored);
+          const parsed = JSON.parse(stored);
+          if (Array.isArray(parsed)) {
+            // Filter out any remnant legacy mock items
+            const cleaned = parsed.filter(item => {
+              if (!item || !item.name) return false;
+              if (item.id && (item.id.startsWith('prod-coffee-') || item.id.startsWith('seed-'))) return false;
+              return true;
+            });
+            if (cleaned.length !== parsed.length) {
+              this.saveItems(cleaned);
+            }
+            return cleaned;
+          }
         }
-        // First visit: seed default items matching screenshot
-        this.saveItems(DEFAULT_SEED_ITEMS);
-        return DEFAULT_SEED_ITEMS;
+        return [];
       } catch (e) {
         console.error('Error loading cart from storage', e);
-        return DEFAULT_SEED_ITEMS;
+        return [];
       }
     }
 
@@ -182,6 +159,7 @@
       }
 
       this.saveItems(items);
+      if (typeof window.openCartSidebar === "function") { setTimeout(window.openCartSidebar, 100); }
       return true;
     }
 
@@ -204,6 +182,7 @@
 
       items[index].qty = nextQty;
       this.saveItems(items);
+      if (typeof window.openCartSidebar === "function") { setTimeout(window.openCartSidebar, 100); }
       return true;
     }
 
@@ -217,6 +196,7 @@
       };
 
       this.saveItems(items);
+      if (typeof window.openCartSidebar === "function") { setTimeout(window.openCartSidebar, 100); }
       return true;
     }
 
