@@ -229,15 +229,15 @@
               <li>
                 <a href="#">Home</a>
                 <ul>
-                  <li><a href='/'>Home 1</a></li>
-                  <li><a href='/index-2'>Home 2</a></li>
-                  <li><a href='/index-3'>Home 3</a></li>
-                  <li><a href='/index-4'>Home 4</a></li>
-                  <li><a href='/index-5'>Home 5</a></li>
+                  <li><a href='index.html'>Home 1</a></li>
+                  <li><a href='index-2.html'>Home 2</a></li>
+                  <li><a href='index-3.html'>Home 3</a></li>
+                  <li><a href='index-4.html'>Home 4</a></li>
+                  <li><a href='index-5.html'>Home 5</a></li>
                 </ul>
               </li>
               <li>
-                <a href='/about'>About Us</a>
+                <a href='about.html'>About Us</a>
               </li>
               <li>
                 <a class="active" href="#">Shop</a>
@@ -246,68 +246,68 @@
                     <a href="#">Product Details</a>
                     <ul>
                       <li>
-                        <a href='/product-details'>Product Details Version 1</a
+                        <a href='product-details.html'>Product Details Version 1</a
                         >
                       </li>
                       <li>
-                        <a href='/product-details-2'>Product Details Version 2</a
+                        <a href='product-details-2.html'>Product Details Version 2</a
                         >
                       </li>
                       <li>
-                        <a href='/product-details-3'>Product Details Version 3</a
+                        <a href='product-details-3.html'>Product Details Version 3</a
                         >
                       </li>
                       <li>
-                        <a href='/product-details-4'>Product Details Version 4</a
+                        <a href='product-details-4.html'>Product Details Version 4</a
                         >
                       </li>
                       <li>
-                        <a href='/product-details-5'>Product Details Version 5</a
+                        <a href='product-details-5.html'>Product Details Version 5</a
                         >
                       </li>
                       <li>
-                        <a href='/product-details-6'>Product Details Version 6</a
+                        <a href='product-details-6.html'>Product Details Version 6</a
                         >
                       </li>
                     </ul>
                   </li>
                   <li>
-                    <a href='/wishlist-style-v1'>Shop - Wishlist Version 1</a
+                    <a href='wishlist-style-v1.html'>Shop - Wishlist Version 1</a
                     >
                   </li>
                   <li>
-                    <a href='/wishlist-style-v2'>Shop - Wishlist Version 2</a
+                    <a href='wishlist-style-v2.html'>Shop - Wishlist Version 2</a
                     >
                   </li>
                   <li>
-                    <a class='active' href='/cart-single-vendor'>Shop - Cart</a
+                    <a class='active' href='cart-single-vendor.html'>Shop - Cart</a
                     >
                   </li>
                   <li>
-                    <a href='/cart-multi-vendor'>Shop - Cart Multi Vendor</a
+                    <a href='cart-multi-vendor.html'>Shop - Cart Multi Vendor</a
                     >
                   </li>
-                  <li><a href='/compare'>Shop - Compare</a></li>
+                  <li><a href='compare.html'>Shop - Compare</a></li>
                 </ul>
               </li>
               <li>
                 <a href="#">Sellers</a>
                 <ul>
-                  <li><a href='/vendors-grid'>Seller Grid</a></li>
-                  <li><a href='/vendors-list'>Seller List</a></li>
+                  <li><a href='vendors-grid.html'>Seller Grid</a></li>
+                  <li><a href='vendors-list.html'>Seller List</a></li>
                   <li>
-                    <a href='/vendor-left-sidebar-marketplace'>
+                    <a href='vendor-left-sidebar-marketplace.html'>
                       Seller Market Place v1
                     </a>
                   </li>
                   <li>
-                    <a href='/vendor-left-top-marketplace'>
+                    <a href='vendor-left-top-marketplace.html'>
                       Seller Market Place v2
                     </a>
                   </li>
-                  <li><a href='/vendor-account'>Seller Account</a></li>
+                  <li><a href='vendor-account.html'>Seller Account</a></li>
                   <li>
-                    <a href='/vendor-dashboard'>Seller Dashboard</a>
+                    <a href='vendor-dashboard.html'>Seller Dashboard</a>
                   </li>
                 </ul>
               </li>
@@ -318,15 +318,15 @@
                     <a href="#">Shop grid</a>
                     <ul>
                       <li>
-                        <a href='/shop-left-sidebar-3col'>3 Columns (Left Filter)</a
+                        <a href='shop-left-sidebar-3col.html'>3 Columns (Left Filter)</a
                         >
                       </li>
                       <li>
-                        <a href='/shop-left-sidebar-4col'>4 Columns (Left Filter)</a
+                        <a href='shop-left-sidebar-4col.html'>4 Columns (Left Filter)</a
                         >
                       </li>
                       <li>
-                        <a href='/shop-left-sidebar-5col'>5 Columns (Left Filter)</a
+                        <a href='shop-left-sidebar-5col.html'>5 Columns (Left Filter)</a
                         >
                       </li>
                     </ul>
@@ -335,15 +335,15 @@
                     <a href="#">Grid with banner</a>
                     <ul>
                       <li>
-                        <a href='/banner-left-sidebar-3col'>3 Columns (Left Filter)</a
+                        <a href='banner-left-sidebar-3col.html'>3 Columns (Left Filter)</a
                         >
                       </li>
                       <li>
-                        <a href='/banner-left-sidebar-4col'>3 Columns (Left Filter)</a
+                        <a href='banner-left-sidebar-4col.html'>3 Columns (Left Filter)</a
                         >
                       </li>
                       <li>
-                        <a href='/banner-left-sidebar-5col'>3 Columns (Left Filter)</a
+                        <a href='banner-left-sidebar-5col.html'>3 Columns (Left Filter)</a
                         >
                       </li>
                     </ul>
@@ -352,19 +352,19 @@
                     <a href="#">Full width layout</a>
                     <ul>
                       <li>
-                        <a href='/full-banner-3col'>Grid - 3 Columns (Banner)</a
+                        <a href='full-banner-3col.html'>Grid - 3 Columns (Banner)</a
                         >
                       </li>
                       <li>
-                        <a href='/full-banner-4col'>Grid - 4 Columns (Banner)</a
+                        <a href='full-banner-4col.html'>Grid - 4 Columns (Banner)</a
                         >
                       </li>
                       <li>
-                        <a href='/full-banner-5col'>Grid - 5 Columns (Banner)</a
+                        <a href='full-banner-5col.html'>Grid - 5 Columns (Banner)</a
                         >
                       </li>
                       <li>
-                        <a href='/full-banner-6col'>Grid - 6 Columns (Banner)</a
+                        <a href='full-banner-6col.html'>Grid - 6 Columns (Banner)</a
                         >
                       </li>
                     </ul>
@@ -373,19 +373,19 @@
                     <a href="#">Horizontal filter</a>
                     <ul>
                       <li>
-                        <a href='/banner-with-horizontal-filter-3col'>Grid - 3 Columns (Banner)</a
+                        <a href='banner-with-horizontal-filter-3col.html'>Grid - 3 Columns (Banner)</a
                         >
                       </li>
                       <li>
-                        <a href='/banner-with-horizontal-filter-4col'>Grid - 4 Columns (Banner)</a
+                        <a href='banner-with-horizontal-filter-4col.html'>Grid - 4 Columns (Banner)</a
                         >
                       </li>
                       <li>
-                        <a href='/banner-with-horizontal-filter-5col'>Grid - 5 Columns (Banner)</a
+                        <a href='banner-with-horizontal-filter-5col.html'>Grid - 5 Columns (Banner)</a
                         >
                       </li>
                       <li>
-                        <a href='/banner-with-horizontal-filter-6col'>Grid - 6 Columns (Banner)</a
+                        <a href='banner-with-horizontal-filter-6col.html'>Grid - 6 Columns (Banner)</a
                         >
                       </li>
                     </ul>
@@ -397,11 +397,11 @@
                       <li><a href="#">Grid - 4 Columns (Left Filter)</a></li>
                       <li><a href="#">Grid - 5 Columns (Left Filter)</a></li>
                       <li>
-                        <a href='/banner-list-with-sidebar'>List - 1 Column (Left Filter)</a
+                        <a href='banner-list-with-sidebar.html'>List - 1 Column (Left Filter)</a
                         >
                       </li>
                       <li>
-                        <a href='/banner-list-without-sidebar-2col'>List - 2 Columns (Left Filter)</a
+                        <a href='banner-list-without-sidebar-2col.html'>List - 2 Columns (Left Filter)</a
                         >
                       </li>
                     </ul>
@@ -410,19 +410,19 @@
                     <a href="#">Banner with filter</a>
                     <ul>
                       <li>
-                        <a href='/banner-category-filter-3col'>Grid - 3 Columns (Banner)</a
+                        <a href='banner-category-filter-3col.html'>Grid - 3 Columns (Banner)</a
                         >
                       </li>
                       <li>
-                        <a href='/banner-category-filter-4col'>Grid - 4 Columns (Banner)</a
+                        <a href='banner-category-filter-4col.html'>Grid - 4 Columns (Banner)</a
                         >
                       </li>
                       <li>
-                        <a href='/banner-category-filter-5col'>Grid - 5 Columns (Banner)</a
+                        <a href='banner-category-filter-5col.html'>Grid - 5 Columns (Banner)</a
                         >
                       </li>
                       <li>
-                        <a href='/banner-category-filter-6col'>Grid - 6 Columns (Banner)</a
+                        <a href='banner-category-filter-6col.html'>Grid - 6 Columns (Banner)</a
                         >
                       </li>
                     </ul>
@@ -432,21 +432,21 @@
               <li>
                 <a href="#">Pages</a>
                 <ul>
-                  <li><a href='/404'>404 Page</a></li>
-                  <li><a href='/coming-soon'>Coming Soon</a></li>
-                  <li><a href='/faq'>FAQ</a></li>
-                  <li><a href='/my-account'>My Account</a></li>
+                  <li><a href='404.html'>404 Page</a></li>
+                  <li><a href='coming-soon.html'>Coming Soon</a></li>
+                  <li><a href='faq.html'>FAQ</a></li>
+                  <li><a href='my-account.html'>My Account</a></li>
                 </ul>
               </li>
               <li>
                 <a href="#">Blog</a>
                 <ul>
-                  <li><a href='/blog-grid'>Blog Grid</a></li>
-                  <li><a href='/blog-list'>Blog List</a></li>
-                  <li><a href='/blog-details'>Blog Details</a></li>
+                  <li><a href='blog-grid.html'>Blog Grid</a></li>
+                  <li><a href='blog-list.html'>Blog List</a></li>
+                  <li><a href='blog-details.html'>Blog Details</a></li>
                 </ul>
               </li>
-              <li><a href='/contact'>Contact</a></li>
+              <li><a href='contact.html'>Contact</a></li>
             </ul>
           </nav>
           <div class="border border-gray-500/24 p-5 rounded-2xl">
@@ -550,7 +550,7 @@
           <div
             class="similar-product-item flex items-center gap-x-4 p-4 border border-gray-300 rounded-2xl"
           >
-            <a class='similar-product-item-image w-[102px] h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='/product-details'>
+            <a class='similar-product-item-image w-[102px] h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='product-details.html'>
               <img
                 src="./assets/images/vitamin-c.png"
                 alt="Product Image"
@@ -565,7 +565,7 @@
               class="similar-product-item-content flex flex-col gap-y-2 flex-1"
             >
               <h6 class="text-base font-semibold">
-                <a href='/product-details'>Fresh Bask Basket Fruits</a>
+                <a href='product-details.html'>Fresh Bask Basket Fruits</a>
               </h6>
               <p class="text-sm leading-[22px]">Shop Name</p>
               <div class="flex items-center justify-between">
@@ -579,7 +579,7 @@
                     >$39.99</span
                   >
                 </div>
-                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='/cart-single-vendor'>
+                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='cart-single-vendor.html'>
                   <span>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
@@ -593,7 +593,7 @@
           <div
             class="similar-product-item flex items-center gap-x-4 p-4 border border-gray-300 rounded-2xl"
           >
-            <a class='similar-product-item-image w-[102px] h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='/product-details'>
+            <a class='similar-product-item-image w-[102px] h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='product-details.html'>
               <img
                 src="./assets/images/apple-juice.png"
                 alt="Product Image"
@@ -608,7 +608,7 @@
               class="similar-product-item-content flex flex-col gap-y-2 flex-1"
             >
               <h6 class="text-base font-semibold">
-                <a href='/product-details'>Fresh Bask Basket Fruits</a>
+                <a href='product-details.html'>Fresh Bask Basket Fruits</a>
               </h6>
               <p class="text-sm leading-[22px]">Shop Name</p>
               <div class="flex items-center justify-between">
@@ -622,7 +622,7 @@
                     >$39.99</span
                   >
                 </div>
-                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='/cart-single-vendor'>
+                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='cart-single-vendor.html'>
                   <span>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
@@ -636,7 +636,7 @@
           <div
             class="similar-product-item flex items-center gap-x-4 p-4 border border-gray-300 rounded-2xl"
           >
-            <a class='similar-product-item-image w-[102px] h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='/product-details'>
+            <a class='similar-product-item-image w-[102px] h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='product-details.html'>
               <img
                 src="./assets/images/ground-nuts-oil.png"
                 alt="Product Image"
@@ -651,7 +651,7 @@
               class="similar-product-item-content flex flex-col gap-y-2 flex-1"
             >
               <h6 class="text-base font-semibold">
-                <a href='/product-details'>Fresh Bask Basket Fruits</a>
+                <a href='product-details.html'>Fresh Bask Basket Fruits</a>
               </h6>
               <p class="text-sm leading-[22px]">Shop Name</p>
               <div class="flex items-center justify-between">
@@ -665,7 +665,7 @@
                     >$39.99</span
                   >
                 </div>
-                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='/cart-single-vendor'>
+                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='cart-single-vendor.html'>
                   <span>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
@@ -679,7 +679,7 @@
           <div
             class="similar-product-item flex items-center gap-x-4 p-4 border border-gray-300 rounded-2xl"
           >
-            <a class='similar-product-item-image w-[102px] h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='/product-details'>
+            <a class='similar-product-item-image w-[102px] h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='product-details.html'>
               <img
                 src="./assets/images/vitamin-c-2.png"
                 alt="Product Image"
@@ -694,7 +694,7 @@
               class="similar-product-item-content flex flex-col gap-y-2 flex-1"
             >
               <h6 class="text-base font-semibold">
-                <a href='/product-details'>Fresh Bask Basket Fruits</a>
+                <a href='product-details.html'>Fresh Bask Basket Fruits</a>
               </h6>
               <p class="text-sm leading-[22px]">Shop Name</p>
               <div class="flex items-center justify-between">
@@ -708,7 +708,7 @@
                     >$39.99</span
                   >
                 </div>
-                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='/cart-single-vendor'>
+                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='cart-single-vendor.html'>
                   <span>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
@@ -722,7 +722,7 @@
           <div
             class="similar-product-item flex items-center gap-x-4 p-4 border border-gray-300 rounded-2xl"
           >
-            <a class='similar-product-item-image w-[102px] h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='/product-details'>
+            <a class='similar-product-item-image w-[102px] h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='product-details.html'>
               <img
                 src="./assets/images/temperature-gun-2.png"
                 alt="Product Image"
@@ -737,7 +737,7 @@
               class="similar-product-item-content flex flex-col gap-y-2 flex-1"
             >
               <h6 class="text-base font-semibold">
-                <a href='/product-details'>Fresh Bask Basket Fruits</a>
+                <a href='product-details.html'>Fresh Bask Basket Fruits</a>
               </h6>
               <p class="text-sm leading-[22px]">Shop Name</p>
               <div class="flex items-center justify-between">
@@ -751,7 +751,7 @@
                     >$39.99</span
                   >
                 </div>
-                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='/cart-single-vendor'>
+                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='cart-single-vendor.html'>
                   <span>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
@@ -765,7 +765,7 @@
           <div
             class="similar-product-item flex items-center gap-x-4 p-4 border border-gray-300 rounded-2xl"
           >
-            <a class='similar-product-item-image w-[102px] h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='/product-details'>
+            <a class='similar-product-item-image w-[102px] h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='product-details.html'>
               <img
                 src="./assets/images/aooca.png"
                 alt="Product Image"
@@ -780,7 +780,7 @@
               class="similar-product-item-content flex flex-col gap-y-2 flex-1"
             >
               <h6 class="text-base font-semibold">
-                <a href='/product-details'>Fresh Bask Basket Fruits</a>
+                <a href='product-details.html'>Fresh Bask Basket Fruits</a>
               </h6>
               <p class="text-sm leading-[22px]">Shop Name</p>
               <div class="flex items-center justify-between">
@@ -794,7 +794,7 @@
                     >$39.99</span
                   >
                 </div>
-                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='/cart-single-vendor'>
+                <a class='btn btn-primary btn-medium rounded-full font-semibold text-sm leading-6 px-4 py-2' href='cart-single-vendor.html'>
                   <span>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
@@ -831,7 +831,7 @@
           <div
             class="cart-product-item flex flex-col sm:flex-row items-center sm:gap-x-4 gap-y-2 sm:gap-y-0 p-4 border border-gray-300 rounded-2xl"
           >
-            <a class='cart-product-item-image sm:w-[102px] sm:h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='/product-details'>
+            <a class='cart-product-item-image sm:w-[102px] sm:h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='product-details.html'>
               <img
                 src="./assets/images/home-3/watermelon.png"
                 alt="Product Image"
@@ -843,7 +843,7 @@
             >
               <div class="flex items-center justify-between gap-x-2">
                 <h6 class="text-base font-semibold">
-                  <a href='/product-details'>Fresh Bask Basket Fruits</a>
+                  <a href='product-details.html'>Fresh Bask Basket Fruits</a>
                 </h6>
                 <div class="cart-edit-remove flex items-center gap-x-3">
                   <button>
@@ -901,7 +901,7 @@
           <div
             class="cart-product-item flex flex-col sm:flex-row items-center sm:gap-x-4 gap-y-2 sm:gap-y-0 p-4 border border-gray-300 rounded-2xl"
           >
-            <a class='cart-product-item-image sm:w-[102px] sm:h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='/product-details'>
+            <a class='cart-product-item-image sm:w-[102px] sm:h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='product-details.html'>
               <img
                 src="./assets/images/home-3/avocado.png"
                 alt="Product Image"
@@ -913,7 +913,7 @@
             >
               <div class="flex items-center justify-between gap-x-2">
                 <h6 class="text-base font-semibold">
-                  <a href='/product-details'>Fresh Bask Basket Fruits</a>
+                  <a href='product-details.html'>Fresh Bask Basket Fruits</a>
                 </h6>
                 <div class="cart-edit-remove flex items-center gap-x-3">
                   <button>
@@ -971,7 +971,7 @@
           <div
             class="cart-product-item flex flex-col sm:flex-row items-center sm:gap-x-4 gap-y-2 sm:gap-y-0 p-4 border border-gray-300 rounded-2xl"
           >
-            <a class='cart-product-item-image sm:w-[102px] sm:h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='/product-details'>
+            <a class='cart-product-item-image sm:w-[102px] sm:h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='product-details.html'>
               <img
                 src="./assets/images/home-3/pouch-mockup.png"
                 alt="Product Image"
@@ -987,7 +987,7 @@
             >
               <div class="flex items-center justify-between gap-x-2">
                 <h6 class="text-base font-semibold">
-                  <a href='/product-details'>Fresh Bask Basket Fruits</a>
+                  <a href='product-details.html'>Fresh Bask Basket Fruits</a>
                 </h6>
                 <div class="cart-edit-remove flex items-center gap-x-3">
                   <button>
@@ -1045,7 +1045,7 @@
           <div
             class="cart-product-item flex flex-col sm:flex-row items-center sm:gap-x-4 gap-y-2 sm:gap-y-0 p-4 border border-gray-300 rounded-2xl"
           >
-            <a class='cart-product-item-image sm:w-[102px] sm:h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='/product-details'>
+            <a class='cart-product-item-image sm:w-[102px] sm:h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='product-details.html'>
               <img
                 src="./assets/images/home-3/strawberry-snacks.png"
                 alt="Product Image"
@@ -1057,7 +1057,7 @@
             >
               <div class="flex items-center justify-between gap-x-2">
                 <h6 class="text-base font-semibold">
-                  <a href='/product-details'>Fresh Bask Basket Fruits</a>
+                  <a href='product-details.html'>Fresh Bask Basket Fruits</a>
                 </h6>
                 <div class="cart-edit-remove flex items-center gap-x-3">
                   <button>
@@ -1115,7 +1115,7 @@
           <div
             class="cart-product-item flex flex-col sm:flex-row items-center sm:gap-x-4 gap-y-2 sm:gap-y-0 p-4 border border-gray-300 rounded-2xl"
           >
-            <a class='cart-product-item-image sm:w-[102px] sm:h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='/product-details'>
+            <a class='cart-product-item-image sm:w-[102px] sm:h-[102px] rounded-xl bg-[#F4F3F5] overflow-hidden relative' href='product-details.html'>
               <img
                 src="./assets/images/home-3/pomegranate.png"
                 alt="Product Image"
@@ -1127,7 +1127,7 @@
             >
               <div class="flex items-center justify-between gap-x-2">
                 <h6 class="text-base font-semibold">
-                  <a href='/product-details'>Fresh Bask Basket Fruits</a>
+                  <a href='product-details.html'>Fresh Bask Basket Fruits</a>
                 </h6>
                 <div class="cart-edit-remove flex items-center gap-x-3">
                   <button>
@@ -1191,10 +1191,10 @@
             <h5>$27.49</h5>
           </div>
           <div class="cart-buttons flex items-center gap-x-4">
-            <a class='btn btn-default outline btn-large rounded-[80px] flex-1 shadow-none' href='/cart-single-vendor'>
+            <a class='btn btn-default outline btn-large rounded-[80px] flex-1 shadow-none' href='cart-single-vendor.html'>
               View Cart
             </a>
-            <a class='btn btn-primary btn-large rounded-[80px] flex-1' href='/checkout'>
+            <a class='btn btn-primary btn-large rounded-[80px] flex-1' href='checkout.html'>
               Proceed to Checkout
             </a>
           </div>
@@ -3357,7 +3357,7 @@
             <div class="hidden xl:flex">
               <ul class="flex items-center text-white">
                 <li>
-                  <a class='text-sm leading-[22px] text-white pr-[19px] mr-[19px] py-3.5 relative after:absolute after:h-7.5 after:w-px after:bg-primary-light after:right-0 after:top-1/2 after:-translate-y-1/2' href='/about'>About us</a
+                  <a class='text-sm leading-[22px] text-white pr-[19px] mr-[19px] py-3.5 relative after:absolute after:h-7.5 after:w-px after:bg-primary-light after:right-0 after:top-1/2 after:-translate-y-1/2' href='about.html'>About us</a
                   >
                 </li>
                 <li>
@@ -3394,7 +3394,7 @@
           <!-- For Desktop Screen Start -->
           <div class="xl:flex items-center hidden">
             <div>
-              <a href='/'>
+              <a href='index.html'>
                 <img src="./assets/images/logo.png" alt="Logo" />
               </a>
             </div>
@@ -3730,7 +3730,7 @@
                 </button>
               </div>
               <div>
-                <a href='/'>
+                <a href='index.html'>
                   <img
                     src="./assets/images/logo.png"
                     alt="Logo"
@@ -4595,25 +4595,25 @@
                   <a href="#">Home </a>
                   <ul>
                     <li>
-                      <a href='/'> Home 1 </a>
+                      <a href='index.html'> Home 1 </a>
                     </li>
                     <li>
-                      <a href='/index-2'> Home 2 </a>
+                      <a href='index-2.html'> Home 2 </a>
                     </li>
                     <li>
-                      <a href='/index-3'> Home 3 </a>
+                      <a href='index-3.html'> Home 3 </a>
                     </li>
                     <li>
-                      <a href='/index-4'> Home 4 </a>
+                      <a href='index-4.html'> Home 4 </a>
                     </li>
                     <li>
-                      <a href='/index-5'> Home 5 </a>
+                      <a href='index-5.html'> Home 5 </a>
                     </li>
                   </ul>
                 </li>
 
                 <li>
-                  <a href='/about'>About Us </a>
+                  <a href='about.html'>About Us </a>
                 </li>
                 <li>
                   <a class="active" href="#">Shop </a>
@@ -4622,27 +4622,27 @@
                       <a href="#">Product Details</a>
                       <ul>
                         <li>
-                          <a href='/product-details'>Product Details Version 1</a
+                          <a href='product-details.html'>Product Details Version 1</a
                           >
                         </li>
                         <li>
-                          <a href='/product-details-2'>Product Details Version 2</a
+                          <a href='product-details-2.html'>Product Details Version 2</a
                           >
                         </li>
                         <li>
-                          <a href='/product-details-3'>Product Details Version 3</a
+                          <a href='product-details-3.html'>Product Details Version 3</a
                           >
                         </li>
                         <li>
-                          <a href='/product-details-4'>Product Details Version 4</a
+                          <a href='product-details-4.html'>Product Details Version 4</a
                           >
                         </li>
                         <li>
-                          <a href='/product-details-5'>Product Details Version 5</a
+                          <a href='product-details-5.html'>Product Details Version 5</a
                           >
                         </li>
                         <li>
-                          <a href='/product-details-6'>Product Details Version 6</a
+                          <a href='product-details-6.html'>Product Details Version 6</a
                           >
                         </li>
                       </ul>
@@ -4651,12 +4651,12 @@
                       <a href="#">Shop - Wishlist</a>
                       <ul>
                         <li>
-                          <a href='/wishlist-style-v1'>
+                          <a href='wishlist-style-v1.html'>
                             Shop - Wishlist
                           </a>
                         </li>
                         <li>
-                          <a href='/wishlist-style-v2'>
+                          <a href='wishlist-style-v2.html'>
                             Shop - Wishlist Version 2
                           </a>
                         </li>
@@ -4666,12 +4666,12 @@
                       <a class="active" href="#">Shop - Cart</a>
                       <ul>
                         <li>
-                          <a class='active' href='/cart-single-vendor'>
+                          <a class='active' href='cart-single-vendor.html'>
                             Shop - Cart
                           </a>
                         </li>
                         <li>
-                          <a href='/cart-multi-vendor'>
+                          <a href='cart-multi-vendor.html'>
                             Shop - Cart Multi Vendor
                           </a>
                         </li>
@@ -4681,22 +4681,22 @@
                       <a href="#">Shop - Checkout</a>
                       <ul>
                         <li>
-                          <a href='/checkout'>
+                          <a href='checkout.html'>
                             Shop - Checkout Version 1
                           </a>
                         </li>
                         <li>
-                          <a href='/checkout-v2'>
+                          <a href='checkout-v2.html'>
                             Shop - Checkout Version 2
                           </a>
                         </li>
                       </ul>
                     </li>
                     <li>
-                      <a href='/order-successful'>Shop - Order Success</a>
+                      <a href='order-successful.html'>Shop - Order Success</a>
                     </li>
                     <li>
-                      <a href='/compare'>Shop - Compare</a>
+                      <a href='compare.html'>Shop - Compare</a>
                     </li>
                   </ul>
                 </li>
@@ -4705,24 +4705,24 @@
 
                   <ul>
                     <li>
-                      <a href='/vendors-grid'> Seller Grid </a>
+                      <a href='vendors-grid.html'> Seller Grid </a>
                     </li>
                     <li>
-                      <a href='/vendors-list'> Seller List </a>
+                      <a href='vendors-list.html'> Seller List </a>
                     </li>
                     <li>
-                      <a href='/vendor-left-sidebar-marketplace'>
+                      <a href='vendor-left-sidebar-marketplace.html'>
                         Seller Market Place v1
                       </a>
                     </li>
                     <li>
-                      <a href='/vendor-left-top-marketplace'>
+                      <a href='vendor-left-top-marketplace.html'>
                         Seller Market Place v2
                       </a>
                     </li>
                     <li>
-                      <a href='/vendor-account'> Seller Account </a>
-                      <a href='/vendor-dashboard'> Seller Dashboard </a>
+                      <a href='vendor-account.html'> Seller Account </a>
+                      <a href='vendor-dashboard.html'> Seller Dashboard </a>
                     </li>
                   </ul>
                 </li>
@@ -4745,15 +4745,15 @@
                           </h5>
                           <ul class="flex flex-col gap-y-2">
                             <li>
-                              <a href='/shop-left-sidebar-3col'>3 Columns (Left Filter)</a
+                              <a href='shop-left-sidebar-3col.html'>3 Columns (Left Filter)</a
                               >
                             </li>
                             <li>
-                              <a href='/shop-left-sidebar-4col'>4 Columns (Left Filter)</a
+                              <a href='shop-left-sidebar-4col.html'>4 Columns (Left Filter)</a
                               >
                             </li>
                             <li>
-                              <a href='/shop-left-sidebar-5col'>5 Columns (Left Filter)</a
+                              <a href='shop-left-sidebar-5col.html'>5 Columns (Left Filter)</a
                               >
                             </li>
                           </ul>
@@ -4768,15 +4768,15 @@
                           </h5>
                           <ul class="flex flex-col gap-y-2">
                             <li>
-                              <a href='/banner-left-sidebar-3col'>3 Columns (Left Filter)</a
+                              <a href='banner-left-sidebar-3col.html'>3 Columns (Left Filter)</a
                               >
                             </li>
                             <li>
-                              <a href='/banner-left-sidebar-4col'>4 Columns (Left Filter)</a
+                              <a href='banner-left-sidebar-4col.html'>4 Columns (Left Filter)</a
                               >
                             </li>
                             <li>
-                              <a href='/banner-left-sidebar-5col'>5 Columns (Left Filter)</a
+                              <a href='banner-left-sidebar-5col.html'>5 Columns (Left Filter)</a
                               >
                             </li>
                           </ul>
@@ -4791,19 +4791,19 @@
                           </h5>
                           <ul class="flex flex-col gap-y-2">
                             <li>
-                              <a href='/full-banner-3col'>Grid - 3 Columns (Banner)</a
+                              <a href='full-banner-3col.html'>Grid - 3 Columns (Banner)</a
                               >
                             </li>
                             <li>
-                              <a href='/full-banner-4col'>Grid - 4 Columns (Banner)</a
+                              <a href='full-banner-4col.html'>Grid - 4 Columns (Banner)</a
                               >
                             </li>
                             <li>
-                              <a href='/full-banner-5col'>Grid - 5 Columns (Banner)</a
+                              <a href='full-banner-5col.html'>Grid - 5 Columns (Banner)</a
                               >
                             </li>
                             <li>
-                              <a href='/full-banner-6col'>Grid - 6 Columns (Banner)</a
+                              <a href='full-banner-6col.html'>Grid - 6 Columns (Banner)</a
                               >
                             </li>
                           </ul>
@@ -4818,19 +4818,19 @@
                           </h5>
                           <ul class="flex flex-col gap-y-2">
                             <li>
-                              <a href='/banner-with-horizontal-filter-3col'>Grid - 3 Columns (Banner)</a
+                              <a href='banner-with-horizontal-filter-3col.html'>Grid - 3 Columns (Banner)</a
                               >
                             </li>
                             <li>
-                              <a href='/banner-with-horizontal-filter-4col'>Grid - 4 Columns (Banner)</a
+                              <a href='banner-with-horizontal-filter-4col.html'>Grid - 4 Columns (Banner)</a
                               >
                             </li>
                             <li>
-                              <a href='/banner-with-horizontal-filter-5col'>Grid - 5 Columns (Banner)</a
+                              <a href='banner-with-horizontal-filter-5col.html'>Grid - 5 Columns (Banner)</a
                               >
                             </li>
                             <li>
-                              <a href='/banner-with-horizontal-filter-6col'>Grid - 6 Columns (Banner)</a
+                              <a href='banner-with-horizontal-filter-6col.html'>Grid - 6 Columns (Banner)</a
                               >
                             </li>
                           </ul>
@@ -4845,23 +4845,23 @@
                           </h5>
                           <ul class="flex flex-col gap-y-2">
                             <li>
-                              <a href='/top-banner-left-sidebar-3col'>Grid - 3 Columns (Left Filter)</a
+                              <a href='top-banner-left-sidebar-3col.html'>Grid - 3 Columns (Left Filter)</a
                               >
                             </li>
                             <li>
-                              <a href='/top-banner-left-sidebar-4col'>Grid - 4 Columns (Left Filter)</a
+                              <a href='top-banner-left-sidebar-4col.html'>Grid - 4 Columns (Left Filter)</a
                               >
                             </li>
                             <li>
-                              <a href='/top-banner-left-sidebar-5col'>Grid - 5 Columns (Left Filter)</a
+                              <a href='top-banner-left-sidebar-5col.html'>Grid - 5 Columns (Left Filter)</a
                               >
                             </li>
                             <li>
-                              <a href='/banner-list-with-sidebar'>List - 1 Column (Left Filter)</a
+                              <a href='banner-list-with-sidebar.html'>List - 1 Column (Left Filter)</a
                               >
                             </li>
                             <li>
-                              <a href='/banner-list-without-sidebar-2col'>List - 2 Columns (Left Filter)</a
+                              <a href='banner-list-without-sidebar-2col.html'>List - 2 Columns (Left Filter)</a
                               >
                             </li>
                           </ul>
@@ -4875,19 +4875,19 @@
                           </h5>
                           <ul class="flex flex-col gap-y-2">
                             <li>
-                              <a href='/banner-category-filter-3col'>Grid - 3 Columns (Banner)</a
+                              <a href='banner-category-filter-3col.html'>Grid - 3 Columns (Banner)</a
                               >
                             </li>
                             <li>
-                              <a href='/banner-category-filter-4col'>Grid - 4 Columns (Banner)</a
+                              <a href='banner-category-filter-4col.html'>Grid - 4 Columns (Banner)</a
                               >
                             </li>
                             <li>
-                              <a href='/banner-category-filter-5col'>Grid - 5 Columns (Banner)</a
+                              <a href='banner-category-filter-5col.html'>Grid - 5 Columns (Banner)</a
                               >
                             </li>
                             <li>
-                              <a href='/banner-category-filter-6col'>Grid - 6 Columns (Banner)</a
+                              <a href='banner-category-filter-6col.html'>Grid - 6 Columns (Banner)</a
                               >
                             </li>
                           </ul>
@@ -4899,9 +4899,9 @@
                 <li>
                   <a href="#">Blog </a>
                   <ul>
-                    <li><a href='/blog-grid'>Blog Grid</a></li>
-                    <li><a href='/blog-list'>Blog List</a></li>
-                    <li><a href='/blog-details'>Blog Details</a></li>
+                    <li><a href='blog-grid.html'>Blog Grid</a></li>
+                    <li><a href='blog-list.html'>Blog List</a></li>
+                    <li><a href='blog-details.html'>Blog Details</a></li>
                   </ul>
                 </li>
                 <li>
@@ -4909,19 +4909,19 @@
 
                   <ul>
                     <li>
-                      <a href='/404'> 404 Page </a>
+                      <a href='404.html'> 404 Page </a>
                     </li>
                     <li>
-                      <a href='/coming-soon'> Coming Soon Page </a>
+                      <a href='coming-soon.html'> Coming Soon Page </a>
                     </li>
                     <li>
-                      <a href='/faq'> FAQ </a>
+                      <a href='faq.html'> FAQ </a>
                     </li>
-                    <li><a href='/my-account'>My Account</a></li>
+                    <li><a href='my-account.html'>My Account</a></li>
                   </ul>
                 </li>
                 <li>
-                  <a href='/contact'>Contact </a>
+                  <a href='contact.html'>Contact </a>
                 </li>
               </ul>
             </nav>
@@ -4954,7 +4954,7 @@
       <div class="breadcrumb">
         <ul>
           <li>
-            <a href='/'>
+            <a href='index.html'>
               <span class="inline-flex items-center justify-center">
                 <i
                   class="hgi hgi-stroke hgi-home-01 text-2xl leading-6"
@@ -5040,7 +5040,7 @@
                         <div
                           class="flex flex-col gap-y-2 items-end md:items-start"
                         >
-                          <a class='product-name text-light-primary-text font-semibold truncate hover:text-primary transition-colors duration-300' href='/product-details'>
+                          <a class='product-name text-light-primary-text font-semibold truncate hover:text-primary transition-colors duration-300' href='product-details.html'>
                             Morning Brew Instant Coffee
                           </a>
                           <p
@@ -5170,7 +5170,7 @@
                         <div
                           class="flex flex-col gap-y-2 items-end md:items-start"
                         >
-                          <a class='product-name text-light-primary-text font-semibold truncate hover:text-primary transition-colors duration-300' href='/product-details'>
+                          <a class='product-name text-light-primary-text font-semibold truncate hover:text-primary transition-colors duration-300' href='product-details.html'>
                             Morning Brew Instant Coffee
                           </a>
                           <p
@@ -5300,7 +5300,7 @@
                         <div
                           class="flex flex-col gap-y-2 items-end md:items-start"
                         >
-                          <a class='product-name text-light-primary-text font-semibold truncate hover:text-primary transition-colors duration-300' href='/product-details'>
+                          <a class='product-name text-light-primary-text font-semibold truncate hover:text-primary transition-colors duration-300' href='product-details.html'>
                             Morning Brew Instant Coffee
                           </a>
                           <p
@@ -5430,7 +5430,7 @@
                         <div
                           class="flex flex-col gap-y-2 items-end md:items-start"
                         >
-                          <a class='product-name text-light-primary-text font-semibold truncate hover:text-primary transition-colors duration-300' href='/product-details'>
+                          <a class='product-name text-light-primary-text font-semibold truncate hover:text-primary transition-colors duration-300' href='product-details.html'>
                             Morning Brew Instant Coffee
                           </a>
                           <p
@@ -5644,10 +5644,10 @@
               </label>
               <!-- Checkout Buttons -->
               <div class="flex flex-col gap-y-6">
-                <a class='btn btn-primary py-3 w-full rounded-[80px]' href='/order-successful'>
+                <a class='btn btn-primary py-3 w-full rounded-[80px]' href='order-successful.html'>
                   Proceed to checkout
                 </a>
-                <a class='btn btn-default outline shadow-none w-full py-[11px] rounded-[80px]' href='/shop-left-sidebar-3col'>
+                <a class='btn btn-default outline shadow-none w-full py-[11px] rounded-[80px]' href='shop-left-sidebar-3col.html'>
                   Continue Shopping
                   <span class="inline-flex items-center justify-center"
                     ><i
@@ -5790,7 +5790,7 @@
                 <div
                   class="product-image rounded-xl bg-[#F4F3F5] mb-4 overflow-hidden"
                 >
-                  <a href='/product-details'>
+                  <a href='product-details.html'>
                     <img
                       src="./assets/images/vitamin-c.png"
                       alt="product-1"
@@ -5803,14 +5803,14 @@
                 >
                   <ul class="flex items-center gap-x-px">
                     <li>
-                      <a aria-label='Add to Wishlist' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center rounded-tl-sm rounded-bl-sm before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='/wishlist-style-v1'>
+                      <a aria-label='Add to Wishlist' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center rounded-tl-sm rounded-bl-sm before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='wishlist-style-v1.html'>
                         <i
                           class="hgi hgi-stroke hgi-favourite text-2xl leading-6 text-light-secondary-text"
                         ></i>
                       </a>
                     </li>
                     <li>
-                      <a aria-label='Compare' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='/compare'>
+                      <a aria-label='Compare' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='compare.html'>
                         <i
                           class="hgi hgi-stroke hgi-reload text-2xl leading-6 text-light-primary-text"
                         ></i>
@@ -5833,7 +5833,7 @@
 
               <div class="product-content">
                 <h5 class="text-base leading-6 font-semibold mb-4 font-dm-sans">
-                  <a href='/product-details'>VitaLife Omega-3 Softgels Heart Support Max Strength</a
+                  <a href='product-details.html'>VitaLife Omega-3 Softgels Heart Support Max Strength</a
                   >
                 </h5>
                 <div class="rating-section flex items-center mb-4">
@@ -5865,12 +5865,12 @@
                   >
                 </div>
                 <div class="btn-section flex items-center gap-x-4">
-                  <a class='size-11 flex flex-none items-center justify-center rounded-full bg-gray-100 hover:bg-gray-200 border border-gray-300' href='/wishlist-style-v1'>
+                  <a class='size-11 flex flex-none items-center justify-center rounded-full bg-gray-100 hover:bg-gray-200 border border-gray-300' href='wishlist-style-v1.html'>
                     <i
                       class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                     ></i>
                   </a>
-                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                     ></i>
@@ -5887,7 +5887,7 @@
                 <div
                   class="product-image rounded-xl bg-[#F4F3F5] mb-4 overflow-hidden"
                 >
-                  <a href='/product-details'>
+                  <a href='product-details.html'>
                     <img
                       src="./assets/images/vitamin-c-2.png"
                       alt="product-1"
@@ -5900,14 +5900,14 @@
                 >
                   <ul class="flex items-center gap-x-px">
                     <li>
-                      <a aria-label='Add to Wishlist' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center rounded-tl-sm rounded-bl-sm before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='/wishlist-style-v1'>
+                      <a aria-label='Add to Wishlist' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center rounded-tl-sm rounded-bl-sm before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='wishlist-style-v1.html'>
                         <i
                           class="hgi hgi-stroke hgi-favourite text-2xl leading-6 text-light-secondary-text"
                         ></i>
                       </a>
                     </li>
                     <li>
-                      <a aria-label='Compare' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='/compare'>
+                      <a aria-label='Compare' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='compare.html'>
                         <i
                           class="hgi hgi-stroke hgi-reload text-2xl leading-6 text-light-primary-text"
                         ></i>
@@ -5930,7 +5930,7 @@
 
               <div class="product-content">
                 <h5 class="text-base leading-6 font-semibold mb-4 font-dm-sans">
-                  <a href='/product-details'>VitaLife Omega-3 Softgels Heart Support Max Strength</a
+                  <a href='product-details.html'>VitaLife Omega-3 Softgels Heart Support Max Strength</a
                   >
                 </h5>
                 <div class="rating-section flex items-center mb-4">
@@ -5962,12 +5962,12 @@
                   >
                 </div>
                 <div class="btn-section flex items-center gap-x-4">
-                  <a class='size-11 flex flex-none items-center justify-center rounded-full bg-gray-100 hover:bg-gray-200 border border-gray-300' href='/wishlist-style-v1'>
+                  <a class='size-11 flex flex-none items-center justify-center rounded-full bg-gray-100 hover:bg-gray-200 border border-gray-300' href='wishlist-style-v1.html'>
                     <i
                       class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                     ></i>
                   </a>
-                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                     ></i>
@@ -5984,7 +5984,7 @@
                 <div
                   class="product-image rounded-xl bg-[#F4F3F5] mb-4 overflow-hidden"
                 >
-                  <a href='/product-details'>
+                  <a href='product-details.html'>
                     <img
                       src="./assets/images/bp-machine-2.png"
                       alt="product-1"
@@ -5997,14 +5997,14 @@
                 >
                   <ul class="flex items-center gap-x-px">
                     <li>
-                      <a aria-label='Add to Wishlist' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center rounded-tl-sm rounded-bl-sm before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='/wishlist-style-v1'>
+                      <a aria-label='Add to Wishlist' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center rounded-tl-sm rounded-bl-sm before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='wishlist-style-v1.html'>
                         <i
                           class="hgi hgi-stroke hgi-favourite text-2xl leading-6 text-light-secondary-text"
                         ></i>
                       </a>
                     </li>
                     <li>
-                      <a aria-label='Compare' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='/compare'>
+                      <a aria-label='Compare' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='compare.html'>
                         <i
                           class="hgi hgi-stroke hgi-reload text-2xl leading-6 text-light-primary-text"
                         ></i>
@@ -6027,7 +6027,7 @@
 
               <div class="product-content">
                 <h5 class="text-base leading-6 font-semibold mb-4 font-dm-sans">
-                  <a href='/product-details'>VitaLife Omega-3 Softgels Heart Support Max Strength</a
+                  <a href='product-details.html'>VitaLife Omega-3 Softgels Heart Support Max Strength</a
                   >
                 </h5>
                 <div class="rating-section flex items-center mb-4">
@@ -6059,12 +6059,12 @@
                   >
                 </div>
                 <div class="btn-section flex items-center gap-x-4">
-                  <a class='size-11 flex flex-none items-center justify-center rounded-full bg-gray-100 hover:bg-gray-200 border border-gray-300' href='/wishlist-style-v1'>
+                  <a class='size-11 flex flex-none items-center justify-center rounded-full bg-gray-100 hover:bg-gray-200 border border-gray-300' href='wishlist-style-v1.html'>
                     <i
                       class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                     ></i>
                   </a>
-                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                     ></i>
@@ -6081,7 +6081,7 @@
                 <div
                   class="product-image rounded-xl bg-[#F4F3F5] mb-4 overflow-hidden"
                 >
-                  <a href='/product-details'>
+                  <a href='product-details.html'>
                     <img
                       src="./assets/images/temperature-gun-1.png"
                       alt="product-1"
@@ -6094,14 +6094,14 @@
                 >
                   <ul class="flex items-center gap-x-px">
                     <li>
-                      <a aria-label='Add to Wishlist' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center rounded-tl-sm rounded-bl-sm before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='/wishlist-style-v1'>
+                      <a aria-label='Add to Wishlist' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center rounded-tl-sm rounded-bl-sm before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='wishlist-style-v1.html'>
                         <i
                           class="hgi hgi-stroke hgi-favourite text-2xl leading-6 text-light-secondary-text"
                         ></i>
                       </a>
                     </li>
                     <li>
-                      <a aria-label='Compare' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='/compare'>
+                      <a aria-label='Compare' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='compare.html'>
                         <i
                           class="hgi hgi-stroke hgi-reload text-2xl leading-6 text-light-primary-text"
                         ></i>
@@ -6124,7 +6124,7 @@
 
               <div class="product-content">
                 <h5 class="text-base leading-6 font-semibold mb-4 font-dm-sans">
-                  <a href='/product-details'>VitaLife Omega-3 Softgels Heart Support Max Strength</a
+                  <a href='product-details.html'>VitaLife Omega-3 Softgels Heart Support Max Strength</a
                   >
                 </h5>
                 <div class="rating-section flex items-center mb-4">
@@ -6156,12 +6156,12 @@
                   >
                 </div>
                 <div class="btn-section flex items-center gap-x-4">
-                  <a class='size-11 flex flex-none items-center justify-center rounded-full bg-gray-100 hover:bg-gray-200 border border-gray-300' href='/wishlist-style-v1'>
+                  <a class='size-11 flex flex-none items-center justify-center rounded-full bg-gray-100 hover:bg-gray-200 border border-gray-300' href='wishlist-style-v1.html'>
                     <i
                       class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                     ></i>
                   </a>
-                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                     ></i>
@@ -6178,7 +6178,7 @@
                 <div
                   class="product-image rounded-xl bg-[#F4F3F5] mb-4 overflow-hidden"
                 >
-                  <a href='/product-details'>
+                  <a href='product-details.html'>
                     <img
                       src="./assets/images/bp-machine.png"
                       alt="product-1"
@@ -6191,14 +6191,14 @@
                 >
                   <ul class="flex items-center gap-x-px">
                     <li>
-                      <a aria-label='Add to Wishlist' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center rounded-tl-sm rounded-bl-sm before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='/wishlist-style-v1'>
+                      <a aria-label='Add to Wishlist' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center rounded-tl-sm rounded-bl-sm before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='wishlist-style-v1.html'>
                         <i
                           class="hgi hgi-stroke hgi-favourite text-2xl leading-6 text-light-secondary-text"
                         ></i>
                       </a>
                     </li>
                     <li>
-                      <a aria-label='Compare' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='/compare'>
+                      <a aria-label='Compare' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='compare.html'>
                         <i
                           class="hgi hgi-stroke hgi-reload text-2xl leading-6 text-light-primary-text"
                         ></i>
@@ -6221,7 +6221,7 @@
 
               <div class="product-content">
                 <h5 class="text-base leading-6 font-semibold mb-4 font-dm-sans">
-                  <a href='/product-details'>VitaLife Omega-3 Softgels Heart Support Max Strength</a
+                  <a href='product-details.html'>VitaLife Omega-3 Softgels Heart Support Max Strength</a
                   >
                 </h5>
                 <div class="rating-section flex items-center mb-4">
@@ -6253,12 +6253,12 @@
                   >
                 </div>
                 <div class="btn-section flex items-center gap-x-4">
-                  <a class='size-11 flex flex-none items-center justify-center rounded-full bg-gray-100 hover:bg-gray-200 border border-gray-300' href='/wishlist-style-v1'>
+                  <a class='size-11 flex flex-none items-center justify-center rounded-full bg-gray-100 hover:bg-gray-200 border border-gray-300' href='wishlist-style-v1.html'>
                     <i
                       class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                     ></i>
                   </a>
-                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                     ></i>
@@ -6275,7 +6275,7 @@
                 <div
                   class="product-image rounded-xl bg-[#F4F3F5] mb-4 overflow-hidden"
                 >
-                  <a href='/product-details'>
+                  <a href='product-details.html'>
                     <img
                       src="./assets/images/nutrageinz.png"
                       alt="product-1"
@@ -6288,14 +6288,14 @@
                 >
                   <ul class="flex items-center gap-x-px">
                     <li>
-                      <a aria-label='Add to Wishlist' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center rounded-tl-sm rounded-bl-sm before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='/wishlist-style-v1'>
+                      <a aria-label='Add to Wishlist' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center rounded-tl-sm rounded-bl-sm before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='wishlist-style-v1.html'>
                         <i
                           class="hgi hgi-stroke hgi-favourite text-2xl leading-6 text-light-secondary-text"
                         ></i>
                       </a>
                     </li>
                     <li>
-                      <a aria-label='Compare' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='/compare'>
+                      <a aria-label='Compare' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='compare.html'>
                         <i
                           class="hgi hgi-stroke hgi-reload text-2xl leading-6 text-light-primary-text"
                         ></i>
@@ -6318,7 +6318,7 @@
 
               <div class="product-content">
                 <h5 class="text-base leading-6 font-semibold mb-4 font-dm-sans">
-                  <a href='/product-details'>VitaLife Omega-3 Softgels Heart Support Max Strength</a
+                  <a href='product-details.html'>VitaLife Omega-3 Softgels Heart Support Max Strength</a
                   >
                 </h5>
                 <div class="rating-section flex items-center mb-4">
@@ -6350,12 +6350,12 @@
                   >
                 </div>
                 <div class="btn-section flex items-center gap-x-4">
-                  <a class='size-11 flex flex-none items-center justify-center rounded-full bg-gray-100 hover:bg-gray-200 border border-gray-300' href='/wishlist-style-v1'>
+                  <a class='size-11 flex flex-none items-center justify-center rounded-full bg-gray-100 hover:bg-gray-200 border border-gray-300' href='wishlist-style-v1.html'>
                     <i
                       class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                     ></i>
                   </a>
-                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                     ></i>
@@ -6371,7 +6371,7 @@
                 <div
                   class="product-image rounded-xl bg-[#F4F3F5] mb-4 overflow-hidden"
                 >
-                  <a href='/product-details'>
+                  <a href='product-details.html'>
                     <img
                       src="./assets/images/bp-machine-2.png"
                       alt="product-1"
@@ -6384,14 +6384,14 @@
                 >
                   <ul class="flex items-center gap-x-px">
                     <li>
-                      <a aria-label='Add to Wishlist' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center rounded-tl-sm rounded-bl-sm before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='/wishlist-style-v1'>
+                      <a aria-label='Add to Wishlist' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center rounded-tl-sm rounded-bl-sm before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='wishlist-style-v1.html'>
                         <i
                           class="hgi hgi-stroke hgi-favourite text-2xl leading-6 text-light-secondary-text"
                         ></i>
                       </a>
                     </li>
                     <li>
-                      <a aria-label='Compare' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='/compare'>
+                      <a aria-label='Compare' class='product-btn-action-item relative size-11 bg-white inline-flex items-center justify-center before:absolute before:left-[calc(50%-8px)] before:bottom-full before:z-9 before:border-8 before:border-transparent before:border-t-black before:opacity-0 before:invisible before:-mb-3.5 hover:before:opacity-100 hover:before:visible before:transition-all before:duration-300 after:absolute after:bottom-full after:left-1/2 after:-translate-x-1/2 after:rounded-sm after:bg-gray-800 after:whitespace-nowrap after:text-white after:text-xs after:leading-[18px] after:py-[3px] after:px-2 after:content-[attr(aria-label)] after:opacity-0 after:invisible after:transition-all after:duration-300 hover:after:opacity-100 hover:after:visible hover:after:-translate-y-2.5 hover:before:-translate-y-2.5' href='compare.html'>
                         <i
                           class="hgi hgi-stroke hgi-reload text-2xl leading-6 text-light-primary-text"
                         ></i>
@@ -6414,7 +6414,7 @@
 
               <div class="product-content">
                 <h5 class="text-base leading-6 font-semibold mb-4 font-dm-sans">
-                  <a href='/product-details'>VitaLife Omega-3 Softgels Heart Support Max Strength</a
+                  <a href='product-details.html'>VitaLife Omega-3 Softgels Heart Support Max Strength</a
                   >
                 </h5>
                 <div class="rating-section flex items-center mb-4">
@@ -6446,12 +6446,12 @@
                   >
                 </div>
                 <div class="btn-section flex items-center gap-x-4">
-                  <a class='size-11 flex flex-none items-center justify-center rounded-full bg-gray-100 hover:bg-gray-200 border border-gray-300' href='/wishlist-style-v1'>
+                  <a class='size-11 flex flex-none items-center justify-center rounded-full bg-gray-100 hover:bg-gray-200 border border-gray-300' href='wishlist-style-v1.html'>
                     <i
                       class="hgi hgi-stroke hgi-favourite text-xl text-light-secondary-text"
                     ></i>
                   </a>
-                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='/cart-single-vendor'>
+                  <a class='btn btn-primary rounded-full font-semibold text-sm leading-6 px-6.5 py-2 flex-1' href='cart-single-vendor.html'>
                     <i
                       class="hgi hgi-stroke hgi-shopping-cart-02 text-xl text-white"
                     ></i>
@@ -6526,7 +6526,7 @@
             data-wow-delay=".2s"
           >
             <div>
-              <a href='/'>
+              <a href='index.html'>
                 <img src="./assets/images/footer-logo.svg" alt="logo" />
               </a>
             </div>
@@ -6608,7 +6608,7 @@
                     class="hgi hgi-stroke hgi-arrow-right-01 text-xl text-primary-lighter"
                   ></i>
                 </span>
-                <a class='text-primary-lighter font-semibold hover:underline' href='/about'>About Us</a
+                <a class='text-primary-lighter font-semibold hover:underline' href='about.html'>About Us</a
                 >
               </li>
               <li class="py-1.5 flex items-center gap-x-2">
@@ -6653,7 +6653,7 @@
                     class="hgi hgi-stroke hgi-arrow-right-01 text-xl text-primary-lighter"
                   ></i>
                 </span>
-                <a class='text-primary-lighter font-semibold hover:underline' href='/contact'>Contact Us</a
+                <a class='text-primary-lighter font-semibold hover:underline' href='contact.html'>Contact Us</a
                 >
               </li>
               <li class="py-1.5 flex items-center gap-x-2">
@@ -6710,7 +6710,7 @@
                     class="hgi hgi-stroke hgi-arrow-right-01 text-xl text-primary-lighter"
                   ></i>
                 </span>
-                <a class='text-primary-lighter font-semibold hover:underline' href='/vendor-account'>Become a Vendor</a
+                <a class='text-primary-lighter font-semibold hover:underline' href='vendor-account.html'>Become a Vendor</a
                 >
               </li>
               <li class="py-1.5 flex items-center gap-x-2">
@@ -6719,7 +6719,7 @@
                     class="hgi hgi-stroke hgi-arrow-right-01 text-xl text-primary-lighter"
                   ></i>
                 </span>
-                <a class='text-primary-lighter font-semibold hover:underline' href='/wishlist-style-v1'>Wishlist</a
+                <a class='text-primary-lighter font-semibold hover:underline' href='wishlist-style-v1.html'>Wishlist</a
                 >
               </li>
               <li class="py-1.5 flex items-center gap-x-2">
@@ -6740,7 +6740,7 @@
                     class="hgi hgi-stroke hgi-arrow-right-01 text-xl text-primary-lighter"
                   ></i>
                 </span>
-                <a class='text-primary-lighter font-semibold hover:underline' href='/faq'>FAQs</a
+                <a class='text-primary-lighter font-semibold hover:underline' href='faq.html'>FAQs</a
                 >
               </li>
             </ul>
@@ -6913,7 +6913,7 @@
       <div class="container">
         <ul class="flex items-center justify-between footer-bottom-nav -mt-px">
           <li class="group">
-            <a class='footer-bottom-nav-btn flex items-center flex-col gap-y-1 border-t-2 border-transparent text-sm leading-[22px] text-light-primary-text px-[9px] pt-2.5 pb-1' href='/'><span class="inline-flex items-center justify-center">
+            <a class='footer-bottom-nav-btn flex items-center flex-col gap-y-1 border-t-2 border-transparent text-sm leading-[22px] text-light-primary-text px-[9px] pt-2.5 pb-1' href='index.html'><span class="inline-flex items-center justify-center">
                 <i
                   class="hgi hgi-stroke hgi-home-01 text-2xl leading-6 text-light-primary-text"
                 ></i></span
@@ -6921,7 +6921,7 @@
             >
           </li>
           <li class="group">
-            <a class='footer-bottom-nav-btn flex items-center flex-col gap-y-1 border-t-2 border-transparent text-sm leading-[22px] text-light-primary-text px-[9px] pt-2.5 pb-1 active' href='/cart-single-vendor'><span class="inline-flex items-center justify-center">
+            <a class='footer-bottom-nav-btn flex items-center flex-col gap-y-1 border-t-2 border-transparent text-sm leading-[22px] text-light-primary-text px-[9px] pt-2.5 pb-1 active' href='cart-single-vendor.html'><span class="inline-flex items-center justify-center">
                 <i
                   class="hgi hgi-stroke hgi-package-moving text-2xl leading-6 text-light-primary-text"
                 ></i></span
@@ -6929,7 +6929,7 @@
             >
           </li>
           <li class="group">
-            <a class='footer-bottom-nav-btn flex items-center flex-col gap-y-1 border-t-2 border-transparent text-sm leading-[22px] text-light-primary-text px-[9px] pt-2.5 pb-1' href='/wishlist-style-v1'><span class="inline-flex items-center justify-center">
+            <a class='footer-bottom-nav-btn flex items-center flex-col gap-y-1 border-t-2 border-transparent text-sm leading-[22px] text-light-primary-text px-[9px] pt-2.5 pb-1' href='wishlist-style-v1.html'><span class="inline-flex items-center justify-center">
                 <i
                   class="hgi hgi-stroke hgi-favourite text-2xl leading-6 text-light-primary-text"
                 ></i></span
@@ -6937,7 +6937,7 @@
             >
           </li>
           <li class="group">
-            <a class='footer-bottom-nav-btn flex items-center flex-col gap-y-1 border-t-2 border-transparent text-sm leading-[22px] text-light-primary-text px-[9px] pt-2.5 pb-1' href='/my-account'><span class="inline-flex items-center justify-center">
+            <a class='footer-bottom-nav-btn flex items-center flex-col gap-y-1 border-t-2 border-transparent text-sm leading-[22px] text-light-primary-text px-[9px] pt-2.5 pb-1' href='my-account.html'><span class="inline-flex items-center justify-center">
                 <i
                   class="hgi hgi-stroke hgi-user-circle text-2xl leading-6 text-light-primary-text"
                 ></i></span
