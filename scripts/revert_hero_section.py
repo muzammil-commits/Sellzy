@@ -74,3 +74,4 @@ for html_file, clean_file, orig_file in PAGES:
                 print(f"Restored original hero section in {target}")
 
 print("Hero section restoration complete!")
+
